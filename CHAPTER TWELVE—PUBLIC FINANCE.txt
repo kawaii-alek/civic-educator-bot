@@ -1,0 +1,414 @@
+CHAPTER TWELVE—PUBLIC FINANCE
+PART 1—PRINCIPLES AND FRAMEWORK OF PUBLIC FINANCE
+
+201. Principles of public finance
+Summary: Establishes the guiding principles for managing public finances, emphasizing transparency, equity, and responsible fiscal management.
+
+Full Text:
+The following principles shall guide all aspects of public finance in Kenya—
+(a) Openness and accountability: Ensure public participation in financial matters.
+(b) Equitable society:
+
+    Fair sharing of tax burdens.
+
+    Equitable revenue sharing between national and county governments.
+
+    Expenditure that promotes equitable development, including marginalized groups.
+    (c) Intergenerational equity: Fair sharing of resource burdens/benefits between present and future generations.
+    (d) Prudent use of public funds: Responsible spending.
+    (e) Clear fiscal reporting: Transparent financial management.
+
+202. Equitable sharing of national revenue
+Summary: Mandates fair distribution of nationally raised revenue between national and county governments.
+
+Full Text:
+(1) Revenue raised nationally shall be shared equitably between national and county governments.
+(2) Counties may receive additional conditional or unconditional allocations from the national share.
+
+203. Equitable share and other financial laws
+Summary: Criteria for determining revenue shares and financial legislation affecting counties.
+
+Full Text:
+(1) The following factors must be considered:
+(a) National interest.
+(b) Public debt obligations.
+(c) Objective needs of the national government.
+(d) Counties’ capacity to perform functions.
+(e) Fiscal efficiency of counties.
+(f) Developmental needs of counties.
+(g) Economic disparities and affirmative action.
+(h) Incentives for revenue optimization.
+(i) Predictability of allocations.
+(j) Flexibility for emergencies.
+(2) Counties’ share shall not be less than 15% of national revenue.
+(3) Calculations based on the most recent audited accounts approved by the National Assembly.
+
+204. Equalisation Fund
+Summary: Establishes a fund to uplift marginalized areas by providing basic services.
+
+Full Text:
+(1) 0.5% of national revenue is allocated annually to the Equalisation Fund.
+(2) Funds are used for:
+
+    Water, roads, health, and electricity in marginalized areas.
+
+    Aimed at raising service levels to national standards.
+    (3) Usage conditions:
+
+    Approved by Parliament via Appropriation Bill.
+
+    May be disbursed directly or as conditional grants.
+    (4) Commission on Revenue Allocation (CRA) must be consulted.
+    (5) Unexpended funds roll over to subsequent years.
+    (6) Sunset clause: Fund lapses after 20 years (extendable by Parliament).
+    (9) Withdrawals require Controller of Budget approval.
+
+205. Consultation on financial legislation affecting counties
+Summary: Requires CRA input on bills impacting county finances.
+
+Full Text:
+(1) CRA reviews and recommends changes to bills on revenue sharing or county finances.
+(2) Parliament must table and consider CRA’s recommendations before voting.
+PART 2—OTHER PUBLIC FUNDS
+
+206. Consolidated Fund and other public funds
+Summary: Central fund for national revenue, with strict withdrawal rules.
+
+Full Text:
+(1) All national revenue is paid into the Consolidated Fund unless:
+
+    Excluded by law for specific public funds.
+
+    Retained by state organs for operational expenses (per law).
+    (2) Withdrawals only allowed via:
+
+    Parliamentary appropriation.
+
+    Articles 222 (emergency funds) or 223 (supplementary funds).
+
+    Constitutional/statutory charges.
+    (4) Controller of Budget must approve withdrawals.
+
+207. County Revenue Funds
+Summary: Each county has a dedicated revenue fund.
+
+Full Text:
+(1) All county revenue is paid into its Revenue Fund (unless excluded by law).
+(2) Withdrawals permitted only for:
+
+    Lawful charges.
+
+    County appropriation laws.
+    (3) Controller of Budget must approve withdrawals.
+    (4) Parliament may legislate on county fund management.
+
+208. Contingencies Fund
+Summary: Emergency fund for urgent, unforeseen expenditures.
+
+Full Text:
+(1) Established and managed per Act of Parliament.
+(2) Cabinet Secretary for Finance may authorize advances if:
+
+    Needs are urgent/unforeseen.
+
+    No other funding exists.
+
+PART 3—REVENUE-RAISING POWERS AND THE PUBLIC DEBT
+
+209. Power to impose taxes and charges
+Summary: Defines which levels of government can impose specific taxes and charges.
+
+Full Text:
+(1) Exclusive national taxes:
+
+    Income tax
+
+    Value-added tax (VAT)
+
+    Customs duties
+
+    Excise tax
+    (2) Parliament may authorize other national taxes (except county taxes in (3)).
+    (3) County taxes:
+
+    Property rates
+
+    Entertainment taxes
+
+    Others authorized by Parliament
+    (4) Both levels may charge fees for services.
+    (5) County taxes must not harm national economic policies or cross-county trade.
+
+210. Imposition of tax
+Summary: Rules for imposing/waiving taxes, with transparency requirements.
+
+Full Text:
+(1) Taxes/fees can only be imposed, waived, or changed through legislation.
+(2) If waived:
+
+    Public records must show the waiver and reason.
+
+    Reported to Auditor-General.
+    (3) No tax exemptions for State officers based on office or work nature.
+
+211. Borrowing by national government
+Summary: Parliament regulates national debt with transparency rules.
+
+Full Text:
+(1) Parliament legislates on:
+
+    Borrowing terms
+
+    Reporting requirements
+    (2) Within 7 days of request, Finance CS must disclose to Parliament:
+
+    Total debt (principal + interest)
+
+    Loan purpose
+
+    Repayment plans
+
+    Current repayment progress
+
+212. Borrowing by counties
+Summary: Counties may borrow only with national guarantees and county assembly approval.
+
+Full Text:
+A county government may borrow only if:
+(a) The national government guarantees the loan;
+(b) Its county assembly approves.
+
+213. Loan guarantees by national government
+Summary: Rules for national guarantees of county/national loans.
+
+Full Text:
+(1) Parliament prescribes guarantee terms.
+(2) Annual report on guarantees must be published within 2 months after each financial year.
+
+214. Public debt
+Summary: Public debt is charged to the Consolidated Fund unless reallocated by law.
+
+Full Text:
+(1) Public debt includes all loans/guarantees by the national government.
+(2) Parliament may allocate debt to other public funds.
+PART 4—REVENUE ALLOCATION
+
+215. Commission on Revenue Allocation (CRA)
+Summary: Independent body to recommend fair revenue sharing.
+
+Full Text:
+(1) CRA is established.
+(2) Members:
+
+    Chairperson (President nominates, NA approves)
+
+    2 NA party nominees
+
+    5 Senate party nominees
+
+    Finance PS (non-voting)
+    (3) Members must have financial/economic expertise.
+
+216. Functions of CRA
+Summary: Advises on revenue sharing and fiscal management.
+
+Full Text:
+(1) Recommends equitable sharing of national revenue between:
+
+    National/county governments
+
+    Among counties
+    (2) Advises on county financial management.
+    (3) Considers:
+
+    Article 203(1) criteria
+
+    Enhancing revenue sources
+
+    Fiscal responsibility
+    (4) Publishes policy to identify marginalized areas (for Equalisation Fund).
+    (5) Submits recommendations to Parliament, executives, and counties.
+
+217. Division of revenue
+Summary: Senate determines county revenue shares every 5 years.
+
+Full Text:
+(1) Senate resolves the basis for allocating county shares.
+(2) Must:
+
+    Apply Article 203(1) criteria
+
+    Consider CRA recommendations
+
+    Consult governors, Finance CS, and public
+    (3)–(9) Process for NA approval/mediation if Senate/NA disagree.
+
+218. Annual Division and Allocation of Revenue Bills
+Summary: Bills to formalize revenue sharing, with transparency requirements.
+
+Full Text:
+(1) Two bills introduced annually:
+
+    Division of Revenue Bill: National/county shares.
+
+    County Allocation of Revenue Bill: County shares.
+    (2) Bills must include:
+
+    Revenue allocation explanations
+
+    Evaluation against Article 203(1) criteria
+
+    Reasons for deviating from CRA recommendations
+
+219. Transfer of equitable share
+Summary: County funds must be transferred promptly unless halted under Article 225.
+
+Full Text:
+County shares are transferred without delay/deduction, unless stopped for financial mismanagement.
+PART 5—BUDGETS AND SPENDING
+
+220. Form and content of budgets
+Summary: Budgets must detail revenue, expenditure, and borrowing plans.
+
+Full Text:
+(1) Budgets must show:
+
+    Recurrent vs. development expenditure
+
+    Deficit financing plans
+
+    Proposed borrowing
+    (2) National legislation prescribes county budget formats and timelines.
+
+221. National budget process
+Summary: Annual budget submission, scrutiny, and approval.
+
+Full Text:
+(1) Finance CS submits estimates to NA 2+ months before year-end.
+(2) Includes Equalisation Fund expenditures.
+(3)–(5) NA committee reviews with public input.
+(6) Appropriation Bill authorizes withdrawals (excludes constitutionally charged expenditures).
+
+222. Interim spending
+Summary: Allows limited spending if budget is delayed.
+
+Full Text:
+(1) If Appropriation Act is delayed, NA may authorize withdrawals up to 50% of tabled estimates.
+(2) Funds are for essential services pending budget approval.
+
+223. Supplementary budgets
+Summary: Rules for unplanned expenditures.
+
+Full Text:
+(1) Additional spending allowed if:
+
+    Appropriated funds are insufficient, or
+
+    Contingencies Fund used.
+    (2) Parliament must approve within 2 months (or 2 weeks if not sitting).
+    (5) Caps supplementary spending at 10% of annual budget (unless Parliament approves more).
+
+224. County appropriation Bills
+Summary: Counties prepare budgets based on Division of Revenue Bill.
+
+Full Text:
+Each county adopts its budget per national legislation, using allocated revenue.
+PART 6—CONTROL OF PUBLIC MONEY
+
+225. Financial control
+Summary: Mechanisms to enforce fiscal discipline, including fund freezes.
+
+Full Text:
+(1) National Treasury established by law.
+(2) Parliament legislates expenditure controls.
+(3) Finance CS may stop transfers to entities for serious breaches (max 50% of county funds).
+(4)–(7) Freezes lapse unless approved by Parliament within 30 days (renewable for 60 days).
+
+226. Accounts and audit
+Summary: Transparency rules for public entities.
+
+Full Text:
+(1) Law requires:
+
+    Financial record-keeping
+
+    Audits
+
+    Designated accounting officers
+    (2) Accounting officers answer to NA/county assemblies.
+    (3) Auditor-General audits all governments/state organs (except own office: audited by NA-appointed accountant).
+    (5) Officials liable for unlawful spending.
+
+227. Public procurement
+Summary: Fair, competitive, and transparent procurement rules.
+
+Full Text:
+(1) Contracts must be:
+
+    Fair, equitable, transparent, competitive, cost-effective.
+    (2) Legislation may provide for:
+
+    Preference categories (e.g., disadvantaged groups)
+
+    Sanctions for poor performance/tax defaults/corruption
+
+228. Controller of Budget
+Summary: Oversees budget implementation.
+
+Full Text:
+(1) Appointed by President (NA approval).
+(2) Requires 10+ years’ finance/audit experience.
+(3) 8-year term (no reappointment).
+(4)–(5) Authorizes withdrawals only if lawful.
+(6) Submits quarterly budget reports to Parliament.
+
+229. Auditor-General
+Summary: Audits all public entities annually.
+
+Full Text:
+(1) Appointed like Controller of Budget.
+(4) Audits:
+
+    National/county governments
+
+    Courts, commissions, Parliament, political parties, public debt.
+    (6) Reports on lawful/effective use of funds.
+    (7)–(8) Reports debated by Parliament/assemblies within 3 months.
+
+230. Salaries and Remuneration Commission
+Summary: Sets salaries for state/public officers.
+
+Full Text:
+(1) Members include nominees from:
+
+    Parliamentary/Judicial/Public Service Commissions
+
+    Trade unions, employers, professionals
+
+    Finance CS, Attorney-General
+    (4) Functions:
+
+    Set state officers’ pay
+
+    Advise on other public officers’ pay
+    (5) Considers:
+
+    Fiscal sustainability
+
+    Talent retention
+
+    Performance, fairness
+
+231. Central Bank of Kenya
+Summary: Independent monetary authority.
+
+Full Text:
+(1) Mandate:
+
+    Monetary policy
+
+    Price stability
+
+    Currency issuance
+    (3) Operates free from external control.
+    (4) Currency may depict Kenya (not individuals).

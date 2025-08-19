@@ -1,0 +1,473 @@
+CHAPTER EIGHT – THE LEGISLATURE
+PART 1 – ESTABLISHMENT AND ROLE OF PARLIAMENT
+93. Establishment of Parliament
+
+Summary:
+Creates Kenya's bicameral Parliament consisting of the National Assembly and Senate.
+
+Full Text:
+(1) There is established a Parliament of Kenya consisting of:
+(a) The National Assembly; and
+(b) The Senate.
+(2) Both Houses shall perform their functions in accordance with this Constitution.
+94. Role of Parliament
+
+Summary:
+Vests legislative authority in Parliament and defines its constitutional responsibilities.
+
+Full Text:
+(1) National legislative authority is vested in Parliament.
+(2) Parliament represents the people's will and diversity.
+(3) Powers include:
+(a) Constitutional amendments;
+(b) County boundary changes.
+(4) Shall protect the Constitution and democracy.
+(5) Exclusive law-making power except where delegated.
+(6) Delegated legislation must specify:
+(a) Purpose/objectives;
+(b) Authority limits;
+(c) Nature/scope;
+(d) Governing standards.
+95. Role of the National Assembly
+
+Summary:
+Details the National Assembly's legislative, financial and oversight functions.
+
+Full Text:
+(1) Represents constituencies and special interests.
+(2) Deliberates on public issues.
+(3) Enacts legislation under Part 4.
+(4) Financial roles:
+(a) Revenue allocation between governments;
+(b) National budget approval;
+(c) Expenditure oversight.
+(5) Oversight roles:
+(a) Reviews President/DP/state officers;
+(b) Monitors state organs.
+(6) Approves:
+(a) War declarations;
+(b) Emergency extensions.
+96. Role of the Senate
+
+Summary:
+Establishes the Senate as protector of county interests with specific legislative powers.
+
+Full Text:
+(1) Represents and protects county interests.
+(2) Participates in county-related legislation (Articles 109-113).
+(3) Determines county revenue allocation (Article 217).
+(4) Participates in presidential removal (Article 145).
+PART 2 – COMPOSITION AND MEMBERSHIP
+97. National Assembly Membership
+
+Summary:
+Composition of 349 members with constituency and special representatives.
+
+Full Text:
+(1) Consists of:
+(a) 290 constituency members;
+(b) 47 county women reps;
+(c) 12 special interest nominees (youth, disabled, workers);
+(d) Speaker (ex officio).
+(2) Does not restrict constituency candidacy.
+98. Senate Membership
+
+Summary:
+68-member Senate with county, gender and special interest representation.
+
+Full Text:
+(1) Consists of:
+(a) 47 county members;
+(b) 16 women nominees;
+(c) 2 youth reps (1M/1F);
+(d) 2 disabled reps (1M/1F);
+(e) Speaker (ex officio).
+(2) Special reps elected under Article 90.
+(3) Does not restrict county candidacy.
+99. MP Qualifications
+
+Summary:
+Eligibility criteria and disqualifications for parliamentary candidates.
+
+Full Text:
+(1) Eligible if:
+(a) Registered voter;
+(b) Meets moral/educational standards;
+(c) Party nominee or independent with:
+(i) 1,000 supporters (NA);
+(ii) 2,000 supporters (Senate).
+(2) Disqualified if:
+(a) State officer (except MP);
+(b) Former IEBC member (5yrs);
+(c) Citizen <10 years;
+(d) MCA;
+(e) Unsound mind;
+(f) Undischarged bankrupt;
+(g) Serving ≥6-month sentence;
+(h) Violated leadership integrity (Chapter 6).
+(3) Disqualification applies after appeals exhausted.
+100. Marginalized Groups
+
+Summary:
+Mandates affirmative action for underrepresented groups.
+
+Full Text:
+Parliament shall enact laws to promote representation of:
+(a) Women;
+(b) Persons with disabilities;
+(c) Youth;
+(d) Ethnic minorities;
+(e) Marginalized communities.
+101. Election of MPs
+
+Summary:
+Election timetable and vacancy procedures.
+
+Full Text:
+(1) General elections every 5 years (2nd Tuesday August).
+(2)-(5) Vacancy procedures:
+
+    21-day notification;
+
+    90-day by-elections (except 3mo pre-election);
+
+    Party-list replacements within 21 days.
+
+102. Term of Parliament
+
+Summary:
+5-year terms with emergency extensions.
+
+Full Text:
+(1) Term ends at next general election.
+(2) Wartime extension (max 6mo at a time) by 2/3 majority.
+(3) Total extension ≤12 months.
+103. Vacation of Office
+
+Summary:
+Conditions for losing parliamentary seat.
+
+Full Text:
+(1) Vacates if:
+(a) Dies;
+(b) Absent ≥8 sittings unexcused;
+(c) Removed under law;
+(d) Resigns;
+(e) Party member resigns/joins another party;
+(f) Term ends;
+(g) Disqualified under Art.99(2)(d)-(h).
+(3) Parliament to legislate on party resignations.
+104. Right of Recall
+
+Summary:
+Allows constituents to recall MPs before term ends.
+
+Full Text:
+(1) Constituents may recall MPs.
+(2) Parliament to legislate procedures.
+105. Membership Disputes
+
+Summary:
+High Court resolves election/seat disputes within 6 months.
+
+Full Text:
+(1) High Court determines:
+(a) Election validity;
+(b) Seat vacancies.
+(2) Cases heard within 6 months.
+(3) Parliament to enact procedures.
+PART 3 – OFFICES OF PARLIAMENT
+106. Speakers and Deputy Speakers
+
+Summary:
+Election and removal of presiding officers.
+
+Full Text:
+(1) Each House elects:
+(a) Speaker (from non-MPs);
+(b) Deputy Speaker (from members).
+(2) Vacates if:
+(a) New Parliament sits;
+(b) Loses MP status;
+(c) 2/3 removal vote;
+(d) Resigns.
+107. Presiding in Parliament
+
+Summary:
+Order of precedence for chairing sessions.
+
+Full Text:
+(1) House sittings chaired by:
+(a) Speaker;
+(b) Deputy Speaker;
+(c) Elected member.
+(2) Joint sittings chaired by NA Speaker assisted by Senate Speaker.
+108. Party Leaders
+
+Summary:
+Recognition of majority/minority leaders.
+
+Full Text:
+(1) Majority and minority leaders recognized.
+(2) Majority leader = largest party/coalition leader.
+(3) Minority leader = second largest party/coalition leader.
+(4) Order of precedence:
+(a) NA Speaker;
+(b) Majority leader;
+(c) Minority leader.
+
+PART 4 – PROCEDURES FOR ENACTING LEGISLATION
+109. Exercise of Legislative Powers
+
+Summary:
+Outlines how Parliament exercises law-making authority through Bills.
+
+Full Text:
+(1) Parliament legislates through Bills passed and assented by the President.
+(2) Bills may originate in the National Assembly.
+(3) Non-county Bills:
+
+    Considered only by NA;
+
+    Passed per Article 122 and NA Standing Orders.
+    (4) County Bills:
+
+    May originate in NA or Senate;
+
+    Passed per Articles 110–113, 122–123, and Standing Orders.
+    (5) Money Bills:
+
+    Introduced only in NA per Article 114.
+
+110. Bills Concerning County Governments
+
+Summary:
+Defines county-related Bills and their classification.
+
+Full Text:
+(1) "County Bill" means:
+(a) Affects county functions (Fourth Schedule);
+(b) Relates to county elections;
+(c) Impacts county finances (Chapter 12).
+(2) Classified as:
+(a) Special Bill if:
+(i) County election-related; or
+(ii) County Allocation of Revenue Bill (Article 218).
+(b) Ordinary Bill otherwise.
+(3) Speakers jointly resolve Bill classification disputes.
+(4) Passed Bills referred to other House.
+(5) Identically passed Bills sent to President within 7 days.
+111. Special Bills Concerning Counties
+
+Summary:
+Special county Bills require 2/3 NA majority to amend/veto Senate version.
+
+Full Text:
+(1) Proceeds like ordinary county Bills.
+(2) NA may amend/veto only by 2/3 majority.
+(3) If NA fails to veto, Senate version sent to President.
+112. Ordinary Bills Concerning Counties
+
+Summary:
+Mediation process for disagreed ordinary county Bills.
+
+Full Text:
+(1) If one House:
+(a) Rejects Bill → Mediation Committee (Article 113);
+(b) Amends Bill → Referred back to originating House.
+(2) Originating House may:
+(a) Accept amendments → Bill sent to President;
+(b) Reject amendments → Mediation Committee.
+113. Mediation Committees
+
+Summary:
+Process for reconciling disagreed county Bills.
+
+Full Text:
+(1) Speakers appoint equal-member committee.
+(2) If committee agrees on version:
+
+    Both Houses vote;
+
+    If approved, sent to President within 7 days.
+    (3) If committee fails or version rejected: Bill lapses.
+
+114. Money Bills
+
+Summary:
+Restricts Money Bills to specified financial matters.
+
+Full Text:
+(1) Limited to matters in clause (3).
+(2) NA proceeds per Finance Committee recommendation.
+(3) "Money Bill" means legislation on:
+(a) Taxes;
+(b) Public fund charges;
+(c) Appropriation/custody of public money;
+(d) Loans;
+(e) Incidental matters.
+(4) Excludes county taxes/loans.
+115. Presidential Assent and Referral
+
+Summary:
+President’s options for handling passed Bills.
+
+Full Text:
+(1) Within 14 days, President may:
+(a) Assent; or
+(b) Refer back with reservations.
+(2) Parliament may:
+(a) Amend per reservations; or
+(b) Repass unchanged.
+(3) If amended per reservations: Re-submitted for assent.
+(4) If repassed unchanged/by 2/3 majority:
+
+    Re-submitted within 7 days;
+
+    President must assent within 7 days.
+    (5) Automatic assent if President inacts.
+
+116. Coming into Force of Laws
+
+Summary:
+Publication and commencement of Acts.
+
+Full Text:
+(1) Published in Gazette within 7 days of assent.
+(2) Commences 14 days after publication unless specified otherwise.
+(3) Acts benefiting MPs:
+
+    Deferred until next general election.
+    (4) Exception for public-interest benefits.
+
+PART 5 – GENERAL PROCEDURES AND RULES
+117. Powers, Privileges and Immunities
+
+Summary:
+Ensures parliamentary freedom and self-regulation.
+
+Full Text:
+(1) Freedom of speech/debate.
+(2) Parliament may regulate:
+
+    Powers/privileges;
+
+    Immunities for members/committees.
+
+118. Public Access and Participation
+
+Summary:
+Mandates open proceedings and public involvement.
+
+Full Text:
+(1) Parliament shall:
+(a) Conduct open sittings;
+(b) Facilitate public participation.
+(2) Exclusion only in exceptional justified cases.
+119. Right to Petition Parliament
+
+Summary:
+Citizens may petition for legislative action.
+
+Full Text:
+(1) Right to petition on any parliamentary matter.
+(2) Parliament to establish procedures.
+120. Official Languages
+
+Summary:
+Kiswahili, English, and Kenyan Sign Language recognized.
+
+Full Text:
+(1) Official languages: Kiswahili, English, KSL.
+(2) Presidential-signed version prevails in conflicts.
+121. Quorum
+
+Summary:
+Minimum members required for proceedings.
+
+Full Text:
+(a) NA: 50 members;
+(b) Senate: 15 members.
+122. Voting in Parliament
+
+Summary:
+Voting rules and restrictions.
+
+Full Text:
+(1) Majority of present/voting members decides.
+(2) Speaker votes only to break ties.
+(3) No voting on matters of pecuniary interest.
+(4) Speaker excluded from membership count.
+123. Decisions of the Senate
+
+Summary:
+Unique voting system for county-affected matters.
+
+Full Text:
+(1) County delegations (47) headed by elected senator.
+(2) Speaker rules whether matter affects counties.
+(3) Non-county matters: 1 senator = 1 vote.
+(4) County matters:
+(a) 1 vote per county delegation;
+(b) Majority of delegations required.
+124. Committees and Standing Orders
+
+Summary:
+Rules for committees and proceedings.
+
+Full Text:
+(1) Houses may establish committees and Standing Orders.
+(2) Joint committees permitted.
+(3) Proceedings valid despite irregularities.
+(4) Public hearings for appointments.
+125. Power to Call Evidence
+
+Summary:
+Parliamentary summons and evidence powers.
+
+Full Text:
+(1) Power to summon persons for evidence.
+(2) Equivalent to High Court powers for:
+(a) Witness attendance;
+(b) Document production;
+(c) Foreign evidence commissions.
+PART 6 – MISCELLANEOUS
+126. Location of Sittings
+
+Summary:
+Flexibility in parliamentary sittings.
+
+Full Text:
+(1) May sit anywhere in Kenya at appointed times.
+(2) President gazettes first sitting (≤30 days post-election).
+127. Parliamentary Service Commission
+
+Summary:
+Composition and functions of PSC.
+
+Full Text:
+(1) Established PSC.
+(2) Composition:
+(a) NA Speaker (Chair);
+(b) Elected Vice-Chair;
+(c) 7 MPs (4 govt, 3 opposition, gender-balanced);
+(d) 2 public members (1M, 1F).
+(3) Clerk of Senate = Secretary.
+(4) Members vacate if:
+(a) Parliament term ends;
+(b) Cease being MPs;
+(c) Appointed members revoked.
+(5) Functions:
+(a) Parliamentary services/facilities;
+(b) Staff appointments;
+(c) Budget preparation;
+(d) Democracy promotion;
+(e) Other legislated roles.
+128. Clerks and Staff
+
+Summary:
+Appointment of parliamentary staff.
+
+Full Text:
+(1) Clerk for each House appointed by PSC with House approval.
+(2) Clerks/staff form Parliamentary Service.
