@@ -65,3 +65,4 @@ Commit on 2025-10-05T19:02:20: Standardized naming conventions
 Commit on 2025-10-06T10:03:00: Fixed RAG retrieval bug
 Commit on 2025-10-06T11:13:51.428571: Indexed new legal data chunks
 Commit on 2025-10-06T11:58:42.857142: Added basic form validation
+Commit on 2025-10-06T12:22:34.285713: Configured Pydantic settings
