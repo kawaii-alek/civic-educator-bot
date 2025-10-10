@@ -114,3 +114,4 @@ Commit on 2025-10-09T18:00:00: Fixed CORS middleware settings
 Commit on 2025-10-09T19:14:00: Configured Pydantic settings
 Commit on 2025-10-10T10:16:00: Refined search query logic
 Commit on 2025-10-10T11:18:20: Optimized FAISS index performance
+Commit on 2025-10-10T11:51:40: Added basic form validation
