@@ -130,3 +130,4 @@ Commit on 2025-10-10T17:47:40: Updated constitutional text chapters
 Commit on 2025-10-10T19:03:00: Updated package dependencies
 Commit on 2025-10-10T18:54:20: Fixed RAG retrieval bug
 Commit on 2025-10-10T19:41:40: Optimized embedding generation
+Commit on 2025-10-11T10:41:00: Fixed CORS middleware settings
