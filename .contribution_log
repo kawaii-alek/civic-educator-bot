@@ -236,3 +236,4 @@ Commit on 2025-10-18T15:17:00: Indexed new legal data chunks
 Commit on 2025-10-18T15:40:30: Standardized naming conventions
 Commit on 2025-10-18T16:17:00: Cleaned up old script files
 Commit on 2025-10-18T17:34:30: Fixed RAG retrieval bug
+Commit on 2025-10-18T17:52:00: Configured Pydantic settings
