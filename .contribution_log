@@ -257,3 +257,4 @@ Commit on 2025-10-20T13:52:46.153845: Indexed new legal data chunks
 Commit on 2025-10-20T14:53:55.384614: Fixed CORS middleware settings
 Commit on 2025-10-20T15:49:04.615383: Standardized naming conventions
 Commit on 2025-10-20T16:43:13.846152: Standardized naming conventions
+Commit on 2025-10-20T16:55:23.076921: Configured Pydantic settings
