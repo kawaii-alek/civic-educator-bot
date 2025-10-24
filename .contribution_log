@@ -315,3 +315,4 @@ Commit on 2025-10-24T13:35:00: Implemented multi-turn conversation memory
 Commit on 2025-10-24T14:18:00: Added descriptive logging
 Commit on 2025-10-24T15:15:00: Polished sidebar navigation
 Commit on 2025-10-24T16:22:00: Fixed RAG retrieval bug
+Commit on 2025-10-24T17:10:00: Cleaned up old script files
