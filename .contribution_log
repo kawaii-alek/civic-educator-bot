@@ -336,3 +336,4 @@ Commit on 2025-10-25T17:43:00: Optimized FAISS index performance
 Commit on 2025-10-25T17:44:00: Added Lucide icons for UI
 Commit on 2025-10-25T18:06:00: Updated package dependencies
 Commit on 2025-10-25T18:44:00: Fixed RAG retrieval bug
+Commit on 2025-10-25T19:25:00: Implemented expert persona logic
