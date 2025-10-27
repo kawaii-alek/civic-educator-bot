@@ -359,3 +359,4 @@ Commit on 2025-10-26T19:41:50.526314: Fixed RAG retrieval bug
 Commit on 2025-10-26T20:07:25.263156: Refactored backend architecture
 Commit on 2025-10-27T10:35:00: Polished sidebar navigation
 Commit on 2025-10-27T10:56:32.727273: Enhanced mobile layout
+Commit on 2025-10-27T12:10:05.454546: Fixed EADDRINUSE error handler
