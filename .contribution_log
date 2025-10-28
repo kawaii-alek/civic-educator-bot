@@ -378,3 +378,4 @@ Commit on 2025-10-28T13:53:00: Fixed RAG retrieval bug
 Commit on 2025-10-28T14:28:20: Refined institutional aesthetic
 Commit on 2025-10-28T15:00:40: Updated constitutional text chapters
 Commit on 2025-10-28T15:02:00: Updated package dependencies
+Commit on 2025-10-28T15:43:20: Configured Pydantic settings
