@@ -374,3 +374,4 @@ Commit on 2025-10-28T11:31:40: Improved frontend responsiveness
 Commit on 2025-10-28T12:14:00: Added basic form validation
 Commit on 2025-10-28T12:16:20: Implemented expert persona logic
 Commit on 2025-10-28T12:47:40: Standardized naming conventions
+Commit on 2025-10-28T13:53:00: Fixed RAG retrieval bug
