@@ -425,3 +425,4 @@ Commit on 2025-10-31T16:15:51.428568: Optimized embedding generation
 Commit on 2025-10-31T16:42:42.857139: Added basic form validation
 Commit on 2025-10-31T17:12:34.285710: Added Lucide icons for UI
 Commit on 2025-10-31T17:58:25.714281: Fixed EADDRINUSE error handler
+Commit on 2025-10-31T18:45:17.142852: Cleaned up old script files
