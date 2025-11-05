@@ -499,3 +499,4 @@ Commit on 2025-11-05T16:10:20: Refactored backend architecture
 Commit on 2025-11-05T16:51:40: Refined search query logic
 Commit on 2025-11-05T17:18:00: Indexed new legal data chunks
 Commit on 2025-11-05T17:36:20: Added basic form validation
+Commit on 2025-11-05T18:24:40: Fixed CORS middleware settings
