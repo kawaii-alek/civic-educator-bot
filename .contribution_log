@@ -505,3 +505,4 @@ Commit on 2025-11-05T19:00:20: Refactored backend architecture
 Commit on 2025-11-05T19:38:40: Updated package dependencies
 Commit on 2025-11-06T10:15:00: Indexed new legal data chunks
 Commit on 2025-11-06T10:56:00: Fixed RAG retrieval bug
+Commit on 2025-11-06T11:37:00: Added basic form validation
