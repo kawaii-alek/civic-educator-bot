@@ -545,3 +545,4 @@ Commit on 2025-11-08T14:15:00: Improved frontend responsiveness
 Commit on 2025-11-08T15:30:00: Indexed new legal data chunks
 Commit on 2025-11-08T16:14:00: Standardized naming conventions
 Commit on 2025-11-08T16:58:00: Refactored backend architecture
+Commit on 2025-11-08T17:36:00: Fixed CORS middleware settings
