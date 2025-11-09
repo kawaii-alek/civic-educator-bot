@@ -551,3 +551,4 @@ Commit on 2025-11-08T19:16:00: Implemented expert persona logic
 Commit on 2025-11-09T10:00:00: Fixed CORS middleware settings
 Commit on 2025-11-09T10:43:00: Updated README with new structure
 Commit on 2025-11-09T11:03:00: Fixed RAG retrieval bug
+Commit on 2025-11-09T12:10:00: Added basic form validation
