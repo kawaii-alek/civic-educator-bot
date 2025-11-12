@@ -601,3 +601,4 @@ Commit on 2025-11-12T10:02:00: Added legal quote of the day feature
 Commit on 2025-11-12T10:59:00: Updated README with new structure
 Commit on 2025-11-12T12:25:00: Fixed CORS middleware settings
 Commit on 2025-11-12T12:40:00: Polished sidebar navigation
+Commit on 2025-11-12T14:01:00: Fixed EADDRINUSE error handler
