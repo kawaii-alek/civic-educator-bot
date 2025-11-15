@@ -645,3 +645,4 @@ Commit on 2025-11-15T12:45:00: Cleaned up old script files
 Commit on 2025-11-15T14:06:00: Fixed EADDRINUSE error handler
 Commit on 2025-11-15T15:00:00: Fixed CORS middleware settings
 Commit on 2025-11-15T16:40:00: Added descriptive logging
+Commit on 2025-11-15T17:50:00: Configured Pydantic settings
