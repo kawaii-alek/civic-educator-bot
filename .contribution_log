@@ -723,3 +723,4 @@ Commit on 2025-11-21T13:46:00: Refactored backend architecture
 Commit on 2025-11-21T14:44:40: Optimized FAISS index performance
 Commit on 2025-11-21T16:07:20: Refactored backend architecture
 Commit on 2025-11-21T17:01:00: Updated README with new structure
+Commit on 2025-11-21T18:04:40: Configured Pydantic settings
