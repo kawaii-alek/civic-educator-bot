@@ -758,3 +758,4 @@ Commit on 2025-11-23T19:49:42.352944: Indexed new legal data chunks
 Commit on 2025-11-24T10:18:00: Updated README with new structure
 Commit on 2025-11-24T10:51:09.230769: Improved frontend responsiveness
 Commit on 2025-11-24T12:01:18.461538: Implemented multi-turn conversation memory
+Commit on 2025-11-24T12:34:27.692307: Fixed RAG retrieval bug
