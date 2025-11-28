@@ -811,3 +811,4 @@ Commit on 2025-11-27T19:18:27.272730: Cleaned up old script files
 Commit on 2025-11-28T10:15:00: Updated package dependencies
 Commit on 2025-11-28T10:53:00: Optimized embedding generation
 Commit on 2025-11-28T12:04:00: Standardized naming conventions
+Commit on 2025-11-28T12:46:00: Configured Pydantic settings
