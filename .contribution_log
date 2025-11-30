@@ -839,3 +839,4 @@ Commit on 2025-11-30T12:15:52.941177: Cleaned up old script files
 Commit on 2025-11-30T12:30:10.588236: Implemented expert persona logic
 Commit on 2025-11-30T13:18:28.235295: Improved frontend responsiveness
 Commit on 2025-11-30T13:57:45.882354: Fixed EADDRINUSE error handler
+Commit on 2025-11-30T14:20:03.529413: Fixed CORS middleware settings
