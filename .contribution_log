@@ -856,3 +856,4 @@ Commit on 2026-05-16T09:00:30: Decrease Ollama connection timeout parameters to 
 Commit on 2026-05-16T09:45:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-16T10:37:30: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-05-16T10:54:00: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-05-16T11:44:30: Compile raw constitution text data to TypeScript modules for performance
