@@ -849,3 +849,4 @@ Commit on 2025-11-30T17:44:49.411767: Updated constitutional text chapters
 Commit on 2025-11-30T18:42:07.058826: Updated README with new structure
 Commit on 2025-11-30T19:10:24.705885: Fixed RAG retrieval bug
 Commit on 2025-11-30T19:35:42.352944: Refactored backend architecture
+Commit on 2026-05-16T07:20:00: Add support for vernacular languages translation layer via LLM prompt instructions
