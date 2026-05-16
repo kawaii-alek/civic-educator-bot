@@ -854,3 +854,4 @@ Commit on 2026-05-16T08:05:30: Incorporate unified logging format across API rou
 Commit on 2026-05-16T08:23:00: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-16T09:00:30: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-05-16T09:45:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-05-16T10:37:30: Add explicit authorization headers to secure FastAPI chat endpoint
