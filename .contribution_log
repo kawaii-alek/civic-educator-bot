@@ -887,3 +887,4 @@ Commit on 2026-05-17T13:47:18.260870: Integrate dynamic language select dropdown
 Commit on 2026-05-17T14:32:26.086957: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-05-17T15:09:33.913044: Implement Swahili query translation using Gemini model integration
 Commit on 2026-05-17T15:28:41.739131: Compile raw constitution text data to TypeScript modules for performance
+Commit on 2026-05-17T16:29:49.565218: Refactor context retrieval pipeline to improve precision in search results
