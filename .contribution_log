@@ -885,3 +885,4 @@ Commit on 2026-05-17T12:21:02.608696: Introduce responsive Sidebar overlay with 
 Commit on 2026-05-17T13:00:10.434783: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-17T13:47:18.260870: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-17T14:32:26.086957: Document docker-compose service configuration for dev and prod orchestration
+Commit on 2026-05-17T15:09:33.913044: Implement Swahili query translation using Gemini model integration
