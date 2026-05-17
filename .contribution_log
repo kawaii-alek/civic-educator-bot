@@ -895,3 +895,4 @@ Commit on 2026-05-17T18:46:20.869566: Add explicit authorization headers to secu
 Commit on 2026-05-17T19:36:28.695653: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-17T20:28:36.521740: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-17T21:07:44.347827: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-05-17T21:31:52.173914: Add explicit authorization headers to secure FastAPI chat endpoint
