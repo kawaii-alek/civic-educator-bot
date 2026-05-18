@@ -896,3 +896,4 @@ Commit on 2026-05-17T19:36:28.695653: Add support for vernacular languages trans
 Commit on 2026-05-17T20:28:36.521740: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-17T21:07:44.347827: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-17T21:31:52.173914: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-05-18T07:30:00: Integrate dynamic language select dropdown in frontend topbar
