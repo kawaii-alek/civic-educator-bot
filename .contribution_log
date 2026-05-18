@@ -915,3 +915,4 @@ Commit on 2026-05-18T17:27:38.181825: Refine layout structure for Bill of Rights
 Commit on 2026-05-18T18:03:32.727280: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-18T18:43:27.272735: Incorporate unified logging format across API routing modules
 Commit on 2026-05-18T19:16:21.818190: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-05-18T19:58:16.363645: Add explicit authorization headers to secure FastAPI chat endpoint
