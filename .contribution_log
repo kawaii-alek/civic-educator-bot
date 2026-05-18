@@ -908,3 +908,4 @@ Commit on 2026-05-18T12:34:16.363640: Add support for vernacular languages trans
 Commit on 2026-05-18T13:08:10.909095: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-05-18T14:00:05.454550: Implement Swahili query translation using Gemini model integration
 Commit on 2026-05-18T14:47:00.000005: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-05-18T15:28:54.545460: Document docker-compose service configuration for dev and prod orchestration
