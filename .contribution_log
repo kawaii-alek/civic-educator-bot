@@ -933,3 +933,4 @@ Commit on 2026-05-19T14:17:30: Refine layout structure for Bill of Rights and Na
 Commit on 2026-05-19T14:56:00: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-05-19T15:17:30: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-19T16:01:00: Implement robust error boundary handling for database query timeouts
+Commit on 2026-05-19T16:38:30: Document docker-compose service configuration for dev and prod orchestration
