@@ -920,3 +920,4 @@ Commit on 2026-05-18T20:48:10.909100: Introduce responsive Sidebar overlay with 
 Commit on 2026-05-18T21:42:05.454555: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-19T07:00:00: Verify rate limiting parameters for endpoint access protection
 Commit on 2026-05-19T07:37:30: Implement robust error boundary handling for database query timeouts
+Commit on 2026-05-19T08:44:00: Integrate dynamic language select dropdown in frontend topbar
