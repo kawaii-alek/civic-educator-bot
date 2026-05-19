@@ -937,3 +937,4 @@ Commit on 2026-05-19T16:38:30: Document docker-compose service configuration for
 Commit on 2026-05-19T17:02:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-19T17:49:30: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-05-19T18:33:00: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
+Commit on 2026-05-19T19:17:30: Refactor activeTab state to main Home component to unify component flow
