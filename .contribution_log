@@ -957,3 +957,4 @@ Commit on 2026-05-20T13:58:30: Optimize Pydantic BaseSettings loading logic for 
 Commit on 2026-05-20T14:54:00: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-20T15:34:30: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-20T16:00:00: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-05-20T16:52:30: Document docker-compose service configuration for dev and prod orchestration
