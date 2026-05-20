@@ -955,3 +955,4 @@ Commit on 2026-05-20T12:58:30: Verify rate limiting parameters for endpoint acce
 Commit on 2026-05-20T13:33:00: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-20T13:58:30: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-05-20T14:54:00: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-20T15:34:30: Integrate dynamic language select dropdown in frontend topbar
