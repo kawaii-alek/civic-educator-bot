@@ -965,3 +965,4 @@ Commit on 2026-05-20T19:13:30: Define Kiswahili translation dictionaries for Cha
 Commit on 2026-05-20T19:43:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-20T20:37:30: Implement robust error boundary handling for database query timeouts
 Commit on 2026-05-20T21:08:00: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-20T21:47:30: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
