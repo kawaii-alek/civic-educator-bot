@@ -960,3 +960,4 @@ Commit on 2026-05-20T16:00:00: Optimize Pydantic BaseSettings loading logic for 
 Commit on 2026-05-20T16:52:30: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-05-20T17:16:00: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-05-20T17:53:30: Refactor context retrieval pipeline to improve precision in search results
+Commit on 2026-05-20T18:37:00: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
