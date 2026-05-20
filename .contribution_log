@@ -954,3 +954,4 @@ Commit on 2026-05-20T12:11:00: Optimize Pydantic BaseSettings loading logic for 
 Commit on 2026-05-20T12:58:30: Verify rate limiting parameters for endpoint access protection
 Commit on 2026-05-20T13:33:00: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-20T13:58:30: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-05-20T14:54:00: Refactor activeTab state to main Home component to unify component flow
