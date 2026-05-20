@@ -944,3 +944,4 @@ Commit on 2026-05-19T21:08:00: Optimize tailwind configuration and build assets 
 Commit on 2026-05-19T21:29:30: Incorporate unified logging format across API routing modules
 Commit on 2026-05-20T07:17:00: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-20T07:48:30: Verify rate limiting parameters for endpoint access protection
+Commit on 2026-05-20T08:27:00: Clean up duplicated and truncated text chapter documents from raw data
