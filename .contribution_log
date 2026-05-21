@@ -970,3 +970,4 @@ Commit on 2026-05-21T07:07:00: Enforce API_KEY_LOCAL verification inside FastAPI
 Commit on 2026-05-21T07:42:07.826087: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-05-21T08:18:15.652174: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-21T09:15:23.478261: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-21T09:46:31.304348: Compile raw constitution text data to TypeScript modules for performance
