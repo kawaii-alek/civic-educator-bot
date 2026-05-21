@@ -983,3 +983,4 @@ Commit on 2026-05-21T15:52:41.739131: Decrease Ollama connection timeout paramet
 Commit on 2026-05-21T16:31:49.565218: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-21T16:50:57.391305: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-05-21T17:38:05.217392: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-21T18:33:13.043479: Add explicit authorization headers to secure FastAPI chat endpoint
