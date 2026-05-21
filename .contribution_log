@@ -966,3 +966,4 @@ Commit on 2026-05-20T19:43:00: Enforce API_KEY_LOCAL verification inside FastAPI
 Commit on 2026-05-20T20:37:30: Implement robust error boundary handling for database query timeouts
 Commit on 2026-05-20T21:08:00: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-20T21:47:30: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
+Commit on 2026-05-21T07:07:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
