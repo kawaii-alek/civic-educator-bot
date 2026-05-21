@@ -985,3 +985,4 @@ Commit on 2026-05-21T16:50:57.391305: Decrease Ollama connection timeout paramet
 Commit on 2026-05-21T17:38:05.217392: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-21T18:33:13.043479: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-05-21T19:06:20.869566: Document docker-compose service configuration for dev and prod orchestration
+Commit on 2026-05-21T19:29:28.695653: Compile raw constitution text data to TypeScript modules for performance
