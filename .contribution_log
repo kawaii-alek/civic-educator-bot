@@ -1022,3 +1022,4 @@ Commit on 2026-05-23T13:44:42.857139: Integrate dynamic language select dropdown
 Commit on 2026-05-23T14:29:34.285710: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-05-23T15:05:25.714281: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-23T15:37:17.142852: Implement Swahili query translation using Gemini model integration
+Commit on 2026-05-23T16:46:08.571423: Clean up duplicated and truncated text chapter documents from raw data
