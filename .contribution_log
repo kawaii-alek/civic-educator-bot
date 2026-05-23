@@ -1018,3 +1018,4 @@ Commit on 2026-05-23T10:34:17.142855: Implement Swahili query translation using 
 Commit on 2026-05-23T11:18:08.571426: Implement robust error boundary handling for database query timeouts
 Commit on 2026-05-23T12:06:59.999997: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-23T12:42:51.428568: Verify rate limiting parameters for endpoint access protection
+Commit on 2026-05-23T13:44:42.857139: Integrate dynamic language select dropdown in frontend topbar
