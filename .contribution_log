@@ -1027,3 +1027,4 @@ Commit on 2026-05-23T17:08:59.999994: Verify rate limiting parameters for endpoi
 Commit on 2026-05-23T18:05:51.428565: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-05-23T18:46:42.857136: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-23T19:08:34.285707: Incorporate unified logging format across API routing modules
+Commit on 2026-05-23T19:59:25.714278: Integrate dynamic language select dropdown in frontend topbar
