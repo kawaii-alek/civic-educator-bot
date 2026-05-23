@@ -1012,3 +1012,4 @@ Commit on 2026-05-22T21:23:00: Document docker-compose service configuration for
 Commit on 2026-05-23T07:24:00: Implement robust error boundary handling for database query timeouts
 Commit on 2026-05-23T08:11:51.428571: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-23T08:49:42.857142: Add support for vernacular languages translation layer via LLM prompt instructions
+Commit on 2026-05-23T09:23:34.285713: Document docker-compose service configuration for dev and prod orchestration
