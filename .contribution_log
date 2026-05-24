@@ -1042,3 +1042,4 @@ Commit on 2026-05-24T12:48:51.428568: Document docker-compose service configurat
 Commit on 2026-05-24T13:27:42.857139: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
 Commit on 2026-05-24T14:18:34.285710: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-24T15:16:25.714281: Implement Swahili query translation using Gemini model integration
+Commit on 2026-05-24T15:46:17.142852: Add explicit authorization headers to secure FastAPI chat endpoint
