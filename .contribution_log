@@ -1059,3 +1059,4 @@ Commit on 2026-05-25T10:00:38.181820: Integrate dynamic language select dropdown
 Commit on 2026-05-25T10:29:32.727275: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-25T11:05:27.272730: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-05-25T11:49:21.818185: Refine layout structure for Bill of Rights and National Security panels
+Commit on 2026-05-25T12:40:16.363640: Clean up duplicated and truncated text chapter documents from raw data
