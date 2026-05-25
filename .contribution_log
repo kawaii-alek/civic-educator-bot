@@ -1061,3 +1061,4 @@ Commit on 2026-05-25T11:05:27.272730: Compile raw constitution text data to Type
 Commit on 2026-05-25T11:49:21.818185: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-25T12:40:16.363640: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-05-25T13:10:10.909095: Implement robust error boundary handling for database query timeouts
+Commit on 2026-05-25T14:01:05.454550: Document docker-compose service configuration for dev and prod orchestration
