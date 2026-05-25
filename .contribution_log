@@ -1064,3 +1064,4 @@ Commit on 2026-05-25T13:10:10.909095: Implement robust error boundary handling f
 Commit on 2026-05-25T14:01:05.454550: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-05-25T14:52:00.000005: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-25T15:32:54.545460: Incorporate unified logging format across API routing modules
+Commit on 2026-05-25T16:21:49.090915: Integrate dynamic language select dropdown in frontend topbar
