@@ -1078,3 +1078,4 @@ Commit on 2026-05-26T07:50:00: Integrate dynamic language select dropdown in fro
 Commit on 2026-05-26T08:52:00: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-05-26T09:39:00: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-05-26T10:27:00: Add support for vernacular languages translation layer via LLM prompt instructions
+Commit on 2026-05-26T10:47:00: Decrease Ollama connection timeout parameters to ensure rapid failover
