@@ -1109,3 +1109,4 @@ Commit on 2026-05-27T15:31:54.545460: Introduce responsive Sidebar overlay with 
 Commit on 2026-05-27T16:04:49.090915: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-05-27T16:41:43.636370: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-27T17:43:38.181825: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-05-27T18:16:32.727280: Compile raw constitution text data to TypeScript modules for performance
