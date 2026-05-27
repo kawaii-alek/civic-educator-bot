@@ -1095,3 +1095,4 @@ Commit on 2026-05-26T20:58:00: Optimize Pydantic BaseSettings loading logic for 
 Commit on 2026-05-26T21:33:00: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-05-27T07:19:00: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-27T08:00:54.545455: Define Kiswahili translation dictionaries for ChatInterface UI labels
+Commit on 2026-05-27T08:30:49.090910: Integrate dynamic language select dropdown in frontend topbar
