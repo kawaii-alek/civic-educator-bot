@@ -1115,3 +1115,4 @@ Commit on 2026-05-27T19:28:21.818190: Refine layout structure for Bill of Rights
 Commit on 2026-05-27T20:15:16.363645: Incorporate unified logging format across API routing modules
 Commit on 2026-05-27T20:54:10.909100: Verify rate limiting parameters for endpoint access protection
 Commit on 2026-05-27T21:23:05.454555: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-28T07:14:00: Clean up duplicated and truncated text chapter documents from raw data
