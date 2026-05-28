@@ -1135,3 +1135,4 @@ Commit on 2026-05-28T17:45:05.217392: Enforce API_KEY_LOCAL verification inside 
 Commit on 2026-05-28T18:05:13.043479: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-05-28T19:12:20.869566: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-28T19:37:28.695653: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-28T20:04:36.521740: Refine layout structure for Bill of Rights and National Security panels
