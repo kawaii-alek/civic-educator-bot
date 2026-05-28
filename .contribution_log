@@ -1123,3 +1123,4 @@ Commit on 2026-05-28T09:41:31.304348: Incorporate unified logging format across 
 Commit on 2026-05-28T10:23:39.130435: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-05-28T11:12:46.956522: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-05-28T11:37:54.782609: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-28T12:19:02.608696: Implement robust error boundary handling for database query timeouts
