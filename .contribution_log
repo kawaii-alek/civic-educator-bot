@@ -1157,3 +1157,4 @@ Commit on 2026-05-29T18:36:00: Document docker-compose service configuration for
 Commit on 2026-05-29T19:01:00: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-05-29T19:56:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-29T20:46:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
+Commit on 2026-05-29T21:30:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
