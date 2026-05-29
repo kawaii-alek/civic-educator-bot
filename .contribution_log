@@ -1140,3 +1140,4 @@ Commit on 2026-05-28T21:11:44.347827: Refactor context retrieval pipeline to imp
 Commit on 2026-05-28T21:24:52.173914: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-05-29T07:05:00: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-05-29T07:55:00: Refine layout structure for Bill of Rights and National Security panels
+Commit on 2026-05-29T08:50:00: Integrate dynamic language select dropdown in frontend topbar
