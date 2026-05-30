@@ -1166,3 +1166,4 @@ Commit on 2026-05-30T09:44:38.181820: Add support for vernacular languages trans
 Commit on 2026-05-30T10:49:32.727275: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-30T11:28:27.272730: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-30T11:57:21.818185: Implement robust error boundary handling for database query timeouts
+Commit on 2026-05-30T12:30:16.363640: Compile raw constitution text data to TypeScript modules for performance
