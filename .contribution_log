@@ -1174,3 +1174,4 @@ Commit on 2026-05-30T15:38:54.545460: Add support for vernacular languages trans
 Commit on 2026-05-30T16:09:49.090915: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-30T16:36:43.636370: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-30T17:42:38.181825: Refactor context retrieval pipeline to improve precision in search results
+Commit on 2026-05-30T18:06:32.727280: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
