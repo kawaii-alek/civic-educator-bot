@@ -1158,3 +1158,4 @@ Commit on 2026-05-29T19:01:00: Clean up duplicated and truncated text chapter do
 Commit on 2026-05-29T19:56:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-29T20:46:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-05-29T21:30:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-05-30T07:07:00: Decrease Ollama connection timeout parameters to ensure rapid failover
