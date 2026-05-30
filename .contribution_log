@@ -1172,3 +1172,4 @@ Commit on 2026-05-30T14:10:05.454550: Optimize tailwind configuration and build 
 Commit on 2026-05-30T14:54:00.000005: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-30T15:38:54.545460: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-30T16:09:49.090915: Define Kiswahili translation dictionaries for ChatInterface UI labels
+Commit on 2026-05-30T16:36:43.636370: Refine layout structure for Bill of Rights and National Security panels
