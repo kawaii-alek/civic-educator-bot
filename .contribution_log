@@ -1177,3 +1177,4 @@ Commit on 2026-05-30T17:42:38.181825: Refactor context retrieval pipeline to imp
 Commit on 2026-05-30T18:06:32.727280: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-30T18:50:27.272735: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-05-30T19:19:21.818190: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-30T20:03:16.363645: Clean up duplicated and truncated text chapter documents from raw data
