@@ -1195,3 +1195,4 @@ Commit on 2026-05-31T14:18:26.086957: Compile raw constitution text data to Type
 Commit on 2026-05-31T15:08:33.913044: Implement Swahili query translation using Gemini model integration
 Commit on 2026-05-31T15:41:41.739131: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-05-31T16:35:49.565218: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-05-31T16:55:57.391305: Define Kiswahili translation dictionaries for ChatInterface UI labels
