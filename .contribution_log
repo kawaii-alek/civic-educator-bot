@@ -1180,3 +1180,4 @@ Commit on 2026-05-30T19:19:21.818190: Refactor activeTab state to main Home comp
 Commit on 2026-05-30T20:03:16.363645: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-05-30T20:48:10.909100: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-05-30T21:49:05.454555: Document docker-compose service configuration for dev and prod orchestration
+Commit on 2026-05-31T07:05:00: Refactor context retrieval pipeline to improve precision in search results
