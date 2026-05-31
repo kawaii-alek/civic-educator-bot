@@ -1199,3 +1199,4 @@ Commit on 2026-05-31T16:55:57.391305: Define Kiswahili translation dictionaries 
 Commit on 2026-05-31T17:31:05.217392: Verify rate limiting parameters for endpoint access protection
 Commit on 2026-05-31T18:23:13.043479: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-05-31T18:48:20.869566: Verify rate limiting parameters for endpoint access protection
+Commit on 2026-05-31T19:43:28.695653: Refactor activeTab state to main Home component to unify component flow
