@@ -1190,3 +1190,4 @@ Commit on 2026-05-31T10:59:46.956522: Define Kiswahili translation dictionaries 
 Commit on 2026-05-31T11:54:54.782609: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-05-31T12:26:02.608696: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-05-31T13:14:10.434783: Optimize tailwind configuration and build assets in frontend compiler
+Commit on 2026-05-31T13:42:18.260870: Refine layout structure for Bill of Rights and National Security panels
