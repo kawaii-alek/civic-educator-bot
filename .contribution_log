@@ -1218,3 +1218,4 @@ Commit on 2026-06-01T14:58:25.714281: Integrate dynamic language select dropdown
 Commit on 2026-06-01T15:36:17.142852: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-01T16:44:08.571423: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-01T17:06:59.999994: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
+Commit on 2026-06-01T18:02:51.428565: Implement Swahili query translation using Gemini model integration
