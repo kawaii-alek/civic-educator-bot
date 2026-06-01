@@ -1215,3 +1215,4 @@ Commit on 2026-06-01T12:58:51.428568: Optimize Pydantic BaseSettings loading log
 Commit on 2026-06-01T13:29:42.857139: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-01T14:13:34.285710: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-06-01T14:58:25.714281: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-01T15:36:17.142852: Document docker-compose service configuration for dev and prod orchestration
