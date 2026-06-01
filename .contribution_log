@@ -1208,3 +1208,4 @@ Commit on 2026-06-01T08:02:51.428571: Implement Swahili query translation using 
 Commit on 2026-06-01T08:38:42.857142: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-06-01T09:12:34.285713: Incorporate unified logging format across API routing modules
 Commit on 2026-06-01T10:09:25.714284: Refactor context retrieval pipeline to improve precision in search results
+Commit on 2026-06-01T10:36:17.142855: Add explicit authorization headers to secure FastAPI chat endpoint
