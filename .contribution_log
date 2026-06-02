@@ -1231,3 +1231,4 @@ Commit on 2026-06-02T09:24:23.478261: Optimize tailwind configuration and build 
 Commit on 2026-06-02T09:36:31.304348: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-06-02T10:39:39.130435: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-02T11:04:46.956522: Decrease Ollama connection timeout parameters to ensure rapid failover
+Commit on 2026-06-02T12:00:54.782609: Document docker-compose service configuration for dev and prod orchestration
