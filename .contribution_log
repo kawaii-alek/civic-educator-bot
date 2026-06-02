@@ -1237,3 +1237,4 @@ Commit on 2026-06-02T12:57:10.434783: Clean up duplicated and truncated text cha
 Commit on 2026-06-02T13:48:18.260870: Verify rate limiting parameters for endpoint access protection
 Commit on 2026-06-02T14:19:26.086957: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-02T15:11:33.913044: Refine layout structure for Bill of Rights and National Security panels
+Commit on 2026-06-02T15:47:41.739131: Add explicit authorization headers to secure FastAPI chat endpoint
