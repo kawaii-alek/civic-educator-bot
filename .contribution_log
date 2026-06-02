@@ -1244,3 +1244,4 @@ Commit on 2026-06-02T17:53:05.217392: Implement robust error boundary handling f
 Commit on 2026-06-02T18:25:13.043479: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-02T18:46:20.869566: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-06-02T19:35:28.695653: Define Kiswahili translation dictionaries for ChatInterface UI labels
+Commit on 2026-06-02T20:32:36.521740: Implement robust error boundary handling for database query timeouts
