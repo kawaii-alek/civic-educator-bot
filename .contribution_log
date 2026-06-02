@@ -1239,3 +1239,4 @@ Commit on 2026-06-02T14:19:26.086957: Define Kiswahili translation dictionaries 
 Commit on 2026-06-02T15:11:33.913044: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-06-02T15:47:41.739131: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-02T16:29:49.565218: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-06-02T17:10:57.391305: Integrate dynamic language select dropdown in frontend topbar
