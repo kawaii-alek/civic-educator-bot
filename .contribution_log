@@ -1233,3 +1233,4 @@ Commit on 2026-06-02T10:39:39.130435: Refactor activeTab state to main Home comp
 Commit on 2026-06-02T11:04:46.956522: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-06-02T12:00:54.782609: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-02T12:23:02.608696: Incorporate unified logging format across API routing modules
+Commit on 2026-06-02T12:57:10.434783: Clean up duplicated and truncated text chapter documents from raw data
