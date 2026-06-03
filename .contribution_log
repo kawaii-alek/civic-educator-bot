@@ -1266,3 +1266,4 @@ Commit on 2026-06-03T17:56:51.428565: Verify rate limiting parameters for endpoi
 Commit on 2026-06-03T18:34:42.857136: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-03T19:20:34.285707: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-06-03T20:16:25.714278: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-06-03T20:56:17.142849: Document docker-compose service configuration for dev and prod orchestration
