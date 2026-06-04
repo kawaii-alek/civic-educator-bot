@@ -1282,3 +1282,4 @@ Commit on 2026-06-04T14:53:00: Incorporate unified logging format across API rou
 Commit on 2026-06-04T15:42:00: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-04T16:30:00: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-04T16:48:00: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-06-04T17:39:00: Optimize Pydantic BaseSettings loading logic for production environments
