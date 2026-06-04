@@ -1281,3 +1281,4 @@ Commit on 2026-06-04T14:14:00: Enforce API_KEY_LOCAL verification inside FastAPI
 Commit on 2026-06-04T14:53:00: Incorporate unified logging format across API routing modules
 Commit on 2026-06-04T15:42:00: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-04T16:30:00: Add support for vernacular languages translation layer via LLM prompt instructions
+Commit on 2026-06-04T16:48:00: Refactor activeTab state to main Home component to unify component flow
