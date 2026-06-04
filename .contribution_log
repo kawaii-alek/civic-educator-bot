@@ -1284,3 +1284,4 @@ Commit on 2026-06-04T16:30:00: Add support for vernacular languages translation 
 Commit on 2026-06-04T16:48:00: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-04T17:39:00: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-06-04T18:16:00: Optimize tailwind configuration and build assets in frontend compiler
+Commit on 2026-06-04T19:23:00: Refine layout structure for Bill of Rights and National Security panels
