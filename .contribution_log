@@ -1275,3 +1275,4 @@ Commit on 2026-06-04T09:34:00: Compile raw constitution text data to TypeScript 
 Commit on 2026-06-04T10:08:00: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-06-04T10:45:00: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-06-04T11:35:00: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-06-04T12:17:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
