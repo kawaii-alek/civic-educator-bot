@@ -1290,3 +1290,4 @@ Commit on 2026-06-04T20:32:00: Introduce responsive Sidebar overlay with smooth 
 Commit on 2026-06-04T21:25:00: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-05T07:07:00: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-05T08:02:54.545455: Verify rate limiting parameters for endpoint access protection
+Commit on 2026-06-05T08:40:49.090910: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
