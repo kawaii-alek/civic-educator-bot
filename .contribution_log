@@ -1308,3 +1308,4 @@ Commit on 2026-06-05T17:59:32.727280: Verify rate limiting parameters for endpoi
 Commit on 2026-06-05T18:40:27.272735: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-05T19:34:21.818190: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-06-05T20:14:16.363645: Compile raw constitution text data to TypeScript modules for performance
+Commit on 2026-06-05T20:53:10.909100: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
