@@ -1327,3 +1327,4 @@ Commit on 2026-06-06T16:11:49.090915: Integrate dynamic language select dropdown
 Commit on 2026-06-06T17:00:43.636370: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-06-06T17:18:38.181825: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-06T18:15:32.727280: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-06-06T19:05:27.272735: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
