@@ -1322,3 +1322,4 @@ Commit on 2026-06-06T12:37:16.363640: Incorporate unified logging format across 
 Commit on 2026-06-06T13:27:10.909095: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-06T14:01:05.454550: Incorporate unified logging format across API routing modules
 Commit on 2026-06-06T14:46:00.000005: Optimize tailwind configuration and build assets in frontend compiler
+Commit on 2026-06-06T15:23:54.545460: Document docker-compose service configuration for dev and prod orchestration
