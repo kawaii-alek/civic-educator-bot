@@ -1312,3 +1312,4 @@ Commit on 2026-06-05T20:53:10.909100: Introduce responsive Sidebar overlay with 
 Commit on 2026-06-05T21:22:05.454555: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-06T07:10:00: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-06T07:57:54.545455: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-06-06T08:45:49.090910: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
