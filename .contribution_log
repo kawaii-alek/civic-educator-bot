@@ -1314,3 +1314,4 @@ Commit on 2026-06-06T07:10:00: Implement robust error boundary handling for data
 Commit on 2026-06-06T07:57:54.545455: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-06T08:45:49.090910: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-06T09:06:43.636365: Refactor context retrieval pipeline to improve precision in search results
+Commit on 2026-06-06T10:13:38.181820: Integrate dynamic language select dropdown in frontend topbar
