@@ -1331,3 +1331,4 @@ Commit on 2026-06-06T19:05:27.272735: Introduce responsive Sidebar overlay with 
 Commit on 2026-06-06T19:43:21.818190: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-06T20:03:16.363645: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-06T21:07:10.909100: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-06-06T21:34:05.454555: Refactor context retrieval pipeline to improve precision in search results
