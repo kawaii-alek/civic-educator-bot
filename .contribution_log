@@ -1334,3 +1334,4 @@ Commit on 2026-06-06T21:07:10.909100: Enforce API_KEY_LOCAL verification inside 
 Commit on 2026-06-06T21:34:05.454555: Refactor context retrieval pipeline to improve precision in search results
 Commit on 2026-06-07T07:08:00: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-07T07:57:51.428571: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-07T08:26:42.857142: Clean up duplicated and truncated text chapter documents from raw data
