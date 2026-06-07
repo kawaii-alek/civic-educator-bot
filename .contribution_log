@@ -1335,3 +1335,4 @@ Commit on 2026-06-06T21:34:05.454555: Refactor context retrieval pipeline to imp
 Commit on 2026-06-07T07:08:00: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-07T07:57:51.428571: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-07T08:26:42.857142: Clean up duplicated and truncated text chapter documents from raw data
+Commit on 2026-06-07T09:29:34.285713: Add support for vernacular languages translation layer via LLM prompt instructions
