@@ -1345,3 +1345,4 @@ Commit on 2026-06-07T13:28:42.857139: Incorporate unified logging format across 
 Commit on 2026-06-07T14:14:34.285710: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-07T15:12:25.714281: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-07T15:48:17.142852: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-06-07T16:25:08.571423: Add explicit authorization headers to secure FastAPI chat endpoint
