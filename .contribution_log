@@ -1347,3 +1347,4 @@ Commit on 2026-06-07T15:12:25.714281: Integrate dynamic language select dropdown
 Commit on 2026-06-07T15:48:17.142852: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-07T16:25:08.571423: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-07T17:22:59.999994: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-07T18:09:51.428565: Decrease Ollama connection timeout parameters to ensure rapid failover
