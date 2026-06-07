@@ -1340,3 +1340,4 @@ Commit on 2026-06-07T10:14:25.714284: Document docker-compose service configurat
 Commit on 2026-06-07T10:52:17.142855: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-07T11:27:08.571426: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-07T12:04:59.999997: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-06-07T13:00:51.428568: Add support for vernacular languages translation layer via LLM prompt instructions
