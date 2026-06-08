@@ -1360,3 +1360,4 @@ Commit on 2026-06-08T09:27:34.285713: Integrate dynamic language select dropdown
 Commit on 2026-06-08T10:16:25.714284: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-06-08T10:50:17.142855: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-06-08T11:45:08.571426: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-06-08T12:24:59.999997: Optimize tailwind configuration and build assets in frontend compiler
