@@ -1368,3 +1368,4 @@ Commit on 2026-06-08T15:13:25.714281: Refine layout structure for Bill of Rights
 Commit on 2026-06-08T15:57:17.142852: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-08T16:31:08.571423: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-08T17:25:59.999994: Add support for vernacular languages translation layer via LLM prompt instructions
+Commit on 2026-06-08T18:05:51.428565: Refine layout structure for Bill of Rights and National Security panels
