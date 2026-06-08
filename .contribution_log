@@ -1357,3 +1357,4 @@ Commit on 2026-06-08T07:16:00: Decrease Ollama connection timeout parameters to 
 Commit on 2026-06-08T08:12:51.428571: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-08T08:46:42.857142: Incorporate unified logging format across API routing modules
 Commit on 2026-06-08T09:27:34.285713: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-08T10:16:25.714284: Clean up duplicated and truncated text chapter documents from raw data
