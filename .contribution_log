@@ -1361,3 +1361,4 @@ Commit on 2026-06-08T10:16:25.714284: Clean up duplicated and truncated text cha
 Commit on 2026-06-08T10:50:17.142855: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-06-08T11:45:08.571426: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-06-08T12:24:59.999997: Optimize tailwind configuration and build assets in frontend compiler
+Commit on 2026-06-08T12:51:51.428568: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
