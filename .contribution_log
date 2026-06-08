@@ -1370,3 +1370,4 @@ Commit on 2026-06-08T16:31:08.571423: Enforce API_KEY_LOCAL verification inside 
 Commit on 2026-06-08T17:25:59.999994: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-08T18:05:51.428565: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-06-08T18:35:42.857136: Refine layout structure for Bill of Rights and National Security panels
+Commit on 2026-06-08T19:16:34.285707: Integrate dynamic language select dropdown in frontend topbar
