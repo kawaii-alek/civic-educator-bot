@@ -1382,3 +1382,4 @@ Commit on 2026-06-09T10:15:25.714284: Decrease Ollama connection timeout paramet
 Commit on 2026-06-09T10:51:17.142855: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-09T11:46:08.571426: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-09T12:10:59.999997: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-09T13:08:51.428568: Document docker-compose service configuration for dev and prod orchestration
