@@ -1398,3 +1398,4 @@ Commit on 2026-06-09T21:35:08.571420: Decrease Ollama connection timeout paramet
 Commit on 2026-06-10T07:01:00: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-10T07:44:51.428571: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-10T08:46:42.857142: Refine layout structure for Bill of Rights and National Security panels
+Commit on 2026-06-10T09:08:34.285713: Integrate dynamic language select dropdown in frontend topbar
