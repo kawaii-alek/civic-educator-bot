@@ -1405,3 +1405,4 @@ Commit on 2026-06-10T11:31:08.571426: Implement robust error boundary handling f
 Commit on 2026-06-10T11:59:59.999997: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-10T12:44:51.428568: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-10T13:50:42.857139: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-06-10T14:20:34.285710: Refine layout structure for Bill of Rights and National Security panels
