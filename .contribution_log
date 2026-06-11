@@ -1427,3 +1427,4 @@ Commit on 2026-06-11T12:14:59.999997: Document docker-compose service configurat
 Commit on 2026-06-11T12:49:51.428568: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-06-11T13:46:42.857139: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-11T14:10:34.285710: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-11T15:10:25.714281: Decrease Ollama connection timeout parameters to ensure rapid failover
