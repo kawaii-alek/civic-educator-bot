@@ -1418,3 +1418,4 @@ Commit on 2026-06-10T20:36:17.142849: Refine layout structure for Bill of Rights
 Commit on 2026-06-10T21:18:08.571420: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-11T07:14:00: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-11T07:59:51.428571: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-11T08:31:42.857142: Add support for vernacular languages translation layer via LLM prompt instructions
