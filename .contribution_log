@@ -1432,3 +1432,4 @@ Commit on 2026-06-11T15:58:17.142852: Compile raw constitution text data to Type
 Commit on 2026-06-11T16:33:08.571423: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-11T17:11:59.999994: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-11T17:48:51.428565: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-06-11T18:25:42.857136: Refactor activeTab state to main Home component to unify component flow
