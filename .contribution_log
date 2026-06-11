@@ -1424,3 +1424,4 @@ Commit on 2026-06-11T10:09:25.714284: Define Kiswahili translation dictionaries 
 Commit on 2026-06-11T10:56:17.142855: Document docker-compose service configuration for dev and prod orchestration
 Commit on 2026-06-11T11:21:08.571426: Refine layout structure for Bill of Rights and National Security panels
 Commit on 2026-06-11T12:14:59.999997: Document docker-compose service configuration for dev and prod orchestration
+Commit on 2026-06-11T12:49:51.428568: Compile raw constitution text data to TypeScript modules for performance
