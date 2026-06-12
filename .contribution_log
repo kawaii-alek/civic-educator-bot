@@ -1450,3 +1450,4 @@ Commit on 2026-06-12T12:57:30: Implement robust error boundary handling for data
 Commit on 2026-06-12T13:18:00: Integrate dynamic language select dropdown in frontend topbar
 Commit on 2026-06-12T14:00:30: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-06-12T14:34:00: Verify rate limiting parameters for endpoint access protection
+Commit on 2026-06-12T15:18:30: Decrease Ollama connection timeout parameters to ensure rapid failover
