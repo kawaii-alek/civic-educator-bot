@@ -1458,3 +1458,4 @@ Commit on 2026-06-12T18:00:30: Implement robust error boundary handling for data
 Commit on 2026-06-12T18:34:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
 Commit on 2026-06-12T19:10:30: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-06-12T19:46:00: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-06-12T20:26:30: Implement Swahili query translation using Gemini model integration
