@@ -1456,3 +1456,4 @@ Commit on 2026-06-12T16:42:30: Add explicit authorization headers to secure Fast
 Commit on 2026-06-12T17:20:00: Incorporate unified logging format across API routing modules
 Commit on 2026-06-12T18:00:30: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-12T18:34:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-06-12T19:10:30: Clean up duplicated and truncated text chapter documents from raw data
