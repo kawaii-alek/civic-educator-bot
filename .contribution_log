@@ -1460,3 +1460,4 @@ Commit on 2026-06-12T19:10:30: Clean up duplicated and truncated text chapter do
 Commit on 2026-06-12T19:46:00: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-12T20:26:30: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-12T20:53:00: Add explicit authorization headers to secure FastAPI chat endpoint
+Commit on 2026-06-12T21:26:30: Decrease Ollama connection timeout parameters to ensure rapid failover
