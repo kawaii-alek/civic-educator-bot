@@ -1455,3 +1455,4 @@ Commit on 2026-06-12T15:47:00: Refactor context retrieval pipeline to improve pr
 Commit on 2026-06-12T16:42:30: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-12T17:20:00: Incorporate unified logging format across API routing modules
 Commit on 2026-06-12T18:00:30: Implement robust error boundary handling for database query timeouts
+Commit on 2026-06-12T18:34:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
