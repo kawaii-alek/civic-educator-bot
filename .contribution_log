@@ -1446,3 +1446,4 @@ Commit on 2026-06-12T10:36:30: Compile raw constitution text data to TypeScript 
 Commit on 2026-06-12T10:56:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-12T11:50:30: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-06-12T12:09:00: Clean up duplicated and truncated text chapter documents from raw data
+Commit on 2026-06-12T12:57:30: Implement robust error boundary handling for database query timeouts
