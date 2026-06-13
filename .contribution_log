@@ -1477,3 +1477,4 @@ Commit on 2026-06-13T15:34:54.545460: Integrate dynamic language select dropdown
 Commit on 2026-06-13T15:54:49.090915: Introduce responsive Sidebar overlay with smooth backdrop blur for mobile
 Commit on 2026-06-13T17:02:43.636370: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-13T17:40:38.181825: Compile raw constitution text data to TypeScript modules for performance
+Commit on 2026-06-13T18:15:32.727280: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
