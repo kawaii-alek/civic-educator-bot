@@ -1465,3 +1465,4 @@ Commit on 2026-06-13T07:02:00: Define Kiswahili translation dictionaries for Cha
 Commit on 2026-06-13T07:46:54.545455: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-13T08:23:49.090910: Optimize Pydantic BaseSettings loading logic for production environments
 Commit on 2026-06-13T09:22:43.636365: Clean up duplicated and truncated text chapter documents from raw data
+Commit on 2026-06-13T09:43:38.181820: Document docker-compose service configuration for dev and prod orchestration
