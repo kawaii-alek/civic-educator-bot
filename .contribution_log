@@ -1462,3 +1462,4 @@ Commit on 2026-06-12T20:26:30: Implement Swahili query translation using Gemini 
 Commit on 2026-06-12T20:53:00: Add explicit authorization headers to secure FastAPI chat endpoint
 Commit on 2026-06-12T21:26:30: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-06-13T07:02:00: Define Kiswahili translation dictionaries for ChatInterface UI labels
+Commit on 2026-06-13T07:46:54.545455: Refactor activeTab state to main Home component to unify component flow
