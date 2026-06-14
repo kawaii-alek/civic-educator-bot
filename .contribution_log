@@ -1506,3 +1506,4 @@ Commit on 2026-06-14T19:20:30: Define Kiswahili translation dictionaries for Cha
 Commit on 2026-06-14T19:33:00: Decrease Ollama connection timeout parameters to ensure rapid failover
 Commit on 2026-06-14T20:27:30: Refactor activeTab state to main Home component to unify component flow
 Commit on 2026-06-14T20:54:00: Enforce API_KEY_LOCAL verification inside FastAPI router dependency
+Commit on 2026-06-14T21:34:30: Clean up duplicated and truncated text chapter documents from raw data
