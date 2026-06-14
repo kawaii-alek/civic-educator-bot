@@ -1484,3 +1484,4 @@ Commit on 2026-06-13T20:05:16.363645: Integrate dynamic language select dropdown
 Commit on 2026-06-13T21:04:10.909100: Compile raw constitution text data to TypeScript modules for performance
 Commit on 2026-06-13T21:38:05.454555: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-14T07:15:00: Integrate dynamic language select dropdown in frontend topbar
+Commit on 2026-06-14T08:00:30: Optimize Pydantic BaseSettings loading logic for production environments
