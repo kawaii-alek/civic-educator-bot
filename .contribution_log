@@ -1496,3 +1496,4 @@ Commit on 2026-06-14T13:02:30: Incorporate unified logging format across API rou
 Commit on 2026-06-14T13:19:00: Implement Swahili query translation using Gemini model integration
 Commit on 2026-06-14T14:03:30: Implement robust error boundary handling for database query timeouts
 Commit on 2026-06-14T14:47:00: Refactor activeTab state to main Home component to unify component flow
+Commit on 2026-06-14T15:09:30: Refine layout structure for Bill of Rights and National Security panels
