@@ -1504,3 +1504,4 @@ Commit on 2026-06-14T17:40:30: Incorporate unified logging format across API rou
 Commit on 2026-06-14T18:26:00: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-06-14T19:20:30: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-14T19:33:00: Decrease Ollama connection timeout parameters to ensure rapid failover
+Commit on 2026-06-14T20:27:30: Refactor activeTab state to main Home component to unify component flow
