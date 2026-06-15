@@ -1528,3 +1528,4 @@ Commit on 2026-06-15T18:47:27.272735: Add support for vernacular languages trans
 Commit on 2026-06-15T19:25:21.818190: Add support for vernacular languages translation layer via LLM prompt instructions
 Commit on 2026-06-15T20:17:16.363645: Clean up duplicated and truncated text chapter documents from raw data
 Commit on 2026-06-15T20:49:10.909100: Refactor context retrieval pipeline to improve precision in search results
+Commit on 2026-06-15T21:19:05.454555: Integrate dynamic language select dropdown in frontend topbar
