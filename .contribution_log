@@ -1522,3 +1522,4 @@ Commit on 2026-06-15T14:38:00.000005: Add support for vernacular languages trans
 Commit on 2026-06-15T15:30:54.545460: Define Kiswahili translation dictionaries for ChatInterface UI labels
 Commit on 2026-06-15T15:51:49.090915: Optimize tailwind configuration and build assets in frontend compiler
 Commit on 2026-06-15T16:57:43.636370: Optimize Pydantic BaseSettings loading logic for production environments
+Commit on 2026-06-15T17:18:38.181825: Document docker-compose service configuration for dev and prod orchestration
