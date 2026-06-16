@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import Sidebar from '@/components/Sidebar';
 import ChatInterface from '@/components/ChatInterface';
 import { chapter4 } from '@/data/chapter4';
@@ -169,7 +169,7 @@ const ChapterReader = ({ chapter, language, setIsSidebarOpen }: ChapterReaderPro
       {/* Main Content Area */}
       <div className="flex-1 overflow-y-auto p-6 md:p-10 space-y-8 scrollbar-thin scrollbar-thumb-slate-200">
         {/* Search Input */}
-        <div className="max-w-md bg-white border border-slate-200 rounded-xl flex items-center gap-3 px-4 py-2.5 shadow-sm">
+        <div className="max-w-md bg-white border border-slate-200 rounded-xl flex items-center gap-3 px-4 py-2.5 shadow-sm transition-all focus-within:ring-2 focus-within:ring-amber-500/20 focus-within:border-amber-500/50">
           <SearchIcon size={18} className="text-slate-400" />
           <input
             type="text"
@@ -261,6 +261,9 @@ const LegalSearch = ({ language, setIsSidebarOpen }: LegalSearchProps) => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
+  const cacheRef = useRef<Record<string, string[]>>({});
+  const abortControllerRef = useRef<AbortController | null>(null);
+
   const translationsMap: Record<string, any> = {
     en: {
       title: "Legal Search Engine",
@@ -286,61 +289,97 @@ const LegalSearch = ({ language, setIsSidebarOpen }: LegalSearchProps) => {
 
   const t = translationsMap[language] || translationsMap.en;
 
+  // Clean up abort controller on unmount
+  useEffect(() => {
+    return () => {
+      if (abortControllerRef.current) {
+        abortControllerRef.current.abort();
+      }
+    };
+  }, []);
+
   const handleSearch = async () => {
-    if (!query.trim() || isLoading) return;
+    const trimmedQuery = query.trim();
+    if (!trimmedQuery || isLoading) return;
+
+    // Check query cache
+    const cacheKey = `${language}:${trimmedQuery.toLowerCase()}`;
+    if (cacheRef.current[cacheKey]) {
+      setResults(cacheRef.current[cacheKey]);
+      setError(null);
+      return;
+    }
 
     setIsLoading(true);
     setError(null);
     setResults([]);
 
+    // Abort active fetch if any
+    if (abortControllerRef.current) {
+      abortControllerRef.current.abort();
+    }
+    const abortController = new AbortController();
+    abortControllerRef.current = abortController;
+
     try {
       const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001/v1';
       const apiKey = process.env.NEXT_PUBLIC_API_KEY || 'my_secret_key123';
 
-      const response = await fetch(`${apiUrl}/search?q=${encodeURIComponent(query)}`, {
+      const response = await fetch(`${apiUrl}/search?q=${encodeURIComponent(trimmedQuery)}`, {
         method: 'GET',
         headers: {
           'api-key': apiKey,
           'x-language': language
-        }
+        },
+        signal: abortController.signal
       });
 
       if (!response.ok) throw new Error('Search failed');
 
       const data = await response.json();
-      setResults(data.results || []);
-    } catch (err) {
+      const searchResults = data.results || [];
+      
+      // Save in cache
+      cacheRef.current[cacheKey] = searchResults;
+      setResults(searchResults);
+    } catch (err: any) {
+      if (err.name === 'AbortError') {
+        console.log('Search aborted');
+        return; // do not set states if aborted
+      }
       console.error(err);
       setError(t.error);
     } finally {
-      setIsLoading(false);
+      if (abortControllerRef.current === abortController) {
+        setIsLoading(false);
+      }
     }
   };
 
   return (
     <div className="flex-1 flex flex-col h-full bg-slate-50 relative overflow-hidden">
       {/* Header */}
-      <header className="px-6 md:px-10 py-6 bg-white border-b border-slate-200 flex justify-between items-center shadow-sm">
-        <div className="flex items-center gap-4">
+      <header className="px-4 md:px-10 py-4 md:py-6 bg-white border-b border-slate-200 flex justify-between items-center shadow-sm">
+        <div className="flex items-center gap-3 md:gap-4">
           <button 
             onClick={() => setIsSidebarOpen(true)}
-            className="lg:hidden p-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-lg transition-colors"
+            className="lg:hidden p-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-lg active:scale-95 transition-all"
           >
-            <Menu size={24} />
+            <Menu size={20} />
           </button>
           <div>
-            <h1 className="text-xl md:text-2xl font-serif font-bold text-slate-900 leading-tight">{t.title}</h1>
-            <p className="text-[10px] md:text-xs text-slate-500 mt-1 uppercase tracking-wider">{t.subtitle}</p>
+            <h1 className="text-lg md:text-2xl font-serif font-bold text-slate-900 leading-tight">{t.title}</h1>
+            <p className="text-[10px] md:text-xs text-slate-500 mt-0.5 md:mt-1 uppercase tracking-wider">{t.subtitle}</p>
           </div>
         </div>
       </header>
 
       {/* Content Area */}
-      <div className="flex-1 overflow-y-auto p-6 md:p-10 space-y-8 scrollbar-thin scrollbar-thumb-slate-200">
+      <div className="flex-1 overflow-y-auto p-4 md:p-10 space-y-6 md:space-y-8 scrollbar-thin scrollbar-thumb-slate-200">
         {/* Search Controls */}
-        <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-md space-y-4">
-          <div className="flex flex-col md:flex-row gap-4">
-            <div className="flex-1 bg-slate-50 border border-slate-200 rounded-xl flex items-center gap-3 px-4 py-3 shadow-inner">
+        <div className="bg-white p-4 md:p-6 rounded-2xl border border-slate-200 shadow-md space-y-4">
+          <div className="flex flex-col md:flex-row gap-3 md:gap-4">
+            <div className="flex-1 bg-slate-50 border border-slate-200 rounded-xl flex items-center gap-3 px-4 py-2.5 md:py-3 shadow-inner transition-all focus-within:ring-2 focus-within:ring-amber-500/20 focus-within:border-amber-500/50 focus-within:bg-white">
               <SearchIcon size={20} className="text-slate-400 flex-shrink-0" />
               <input
                 type="text"
@@ -354,17 +393,17 @@ const LegalSearch = ({ language, setIsSidebarOpen }: LegalSearchProps) => {
             <button
               onClick={handleSearch}
               disabled={isLoading || !query.trim()}
-              className="px-6 h-12 rounded-xl bg-amber-600 text-white flex items-center justify-center gap-3 font-bold hover:bg-amber-700 transition-colors disabled:opacity-50 text-sm md:text-base shadow-md whitespace-nowrap"
+              className="px-6 h-11 md:h-12 rounded-xl bg-amber-600 text-white flex items-center justify-center gap-2 md:gap-3 font-bold hover:bg-amber-700 active:scale-[0.98] transition-all disabled:opacity-50 text-sm md:text-base shadow-md whitespace-nowrap"
             >
               {isLoading ? (
                 <>
-                  <Loader2 className="animate-spin" size={18} />
+                  <Loader2 className="animate-spin" size={16} />
                   <span>{t.searching}</span>
                 </>
               ) : (
                 <>
                   <span>{t.searchBtn}</span>
-                  <SearchIcon size={18} />
+                  <SearchIcon size={16} />
                 </>
               )}
             </button>
@@ -379,35 +418,35 @@ const LegalSearch = ({ language, setIsSidebarOpen }: LegalSearchProps) => {
         )}
 
         {/* Results List */}
-        <div className="space-y-6">
+        <div className="space-y-4 md:space-y-6">
           {results.length > 0 && (
-            <p className="text-xs font-bold uppercase tracking-widest text-slate-500">
+            <p className="text-[10px] md:text-xs font-bold uppercase tracking-widest text-slate-500">
               {results.length} {t.resultsFound}
             </p>
           )}
 
           {results.length === 0 && !isLoading && !error && query && (
             <div className="text-center py-12 bg-white rounded-2xl border border-dashed border-slate-300 text-slate-400">
-              <SearchIcon size={48} className="mx-auto mb-4 opacity-30" />
-              <p className="font-serif text-lg italic">{t.noResults}</p>
+              <SearchIcon size={40} className="mx-auto mb-3 opacity-30" />
+              <p className="font-serif text-base md:text-lg italic">{t.noResults}</p>
             </div>
           )}
 
-          <div className="grid grid-cols-1 gap-6">
+          <div className="grid grid-cols-1 gap-4 md:gap-6">
             {results.map((res, index) => (
               <div 
                 key={index} 
-                className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm hover:shadow-md transition-shadow relative overflow-hidden group"
+                className="bg-white border border-slate-200 rounded-2xl p-5 md:p-6 shadow-sm hover:shadow-md hover:scale-[1.01] hover:border-amber-300 transition-all duration-300 relative overflow-hidden group"
               >
                 {/* Decorative border */}
-                <div className="absolute left-0 top-0 bottom-0 w-1.5 bg-amber-500" />
+                <div className="absolute left-0 top-0 bottom-0 w-1 bg-amber-500 md:w-1.5" />
                 
-                <div className="flex gap-4">
-                  <div className="w-10 h-10 rounded-full bg-slate-50 border border-slate-100 flex items-center justify-center text-slate-400 group-hover:bg-amber-50 group-hover:text-amber-600 transition-colors flex-shrink-0">
-                    <Quote size={18} className="opacity-60" />
+                <div className="flex gap-3 md:gap-4">
+                  <div className="w-8 h-8 md:w-10 md:h-10 rounded-full bg-slate-50 border border-slate-100 flex items-center justify-center text-slate-400 group-hover:bg-amber-50 group-hover:text-amber-600 transition-colors flex-shrink-0">
+                    <Quote size={14} className="opacity-60 md:w-4.5 md:h-4.5" />
                   </div>
                   <div className="flex-1">
-                    <span className="block text-[10px] text-slate-400 font-bold uppercase tracking-wider mb-2">
+                    <span className="block text-[9px] md:text-[10px] text-slate-400 font-bold uppercase tracking-wider mb-1.5">
                       {language === 'sw' ? 'Kifungu cha Katiba' : 'Constitutional Extract'} #{index + 1}
                     </span>
                     <p className="font-serif text-slate-800 text-sm md:text-base leading-relaxed whitespace-pre-line">
