@@ -21,10 +21,14 @@ def create_app() -> FastAPI:
         version="1.0.0"
     )
 
-    # Configure CORS
+    # Configure CORS with restricted origins
+    origins = [origin.strip() for origin in settings.CORS_ORIGINS.split(",") if origin.strip()]
+    if not origins:
+        origins = ["*"]
+
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=["*"],
+        allow_origins=origins,
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
@@ -32,6 +36,15 @@ def create_app() -> FastAPI:
 
     # Include API routes
     app.include_router(api_router, prefix=settings.API_V1_STR)
+
+    # Health Check Endpoint
+    @app.get("/health", tags=["System"])
+    async def health_check():
+        return {
+            "status": "healthy",
+            "project": settings.PROJECT_NAME,
+            "version": "1.0.0"
+        }
 
     # Static assets and frontend entry point
     # Note: Using absolute path from settings for robustness
@@ -54,3 +67,4 @@ if __name__ == "__main__":
     import uvicorn
     import os
     uvicorn.run("backend.main:app", host="0.0.0.0", port=8001, reload=True)
+

@@ -1,82 +1,100 @@
 CHAPTER SIXTEEN—AMENDMENT OF THIS CONSTITUTION
-PART 1—GENERAL PROVISIONS
-
-255. Amendment of this Constitution
-Summary: Rules for amending the Constitution, including mandatory referendum clauses.
-
-Full Text:
-(1) Amendments requiring a referendum (per Article 256/257) relate to:
-(a) Constitutional supremacy.
-(b) Kenya’s territory.
-(c) People’s sovereignty.
-(d) National values/principles (Article 10(2)(a)–(d)).
-(e) Bill of Rights.
-(f) Presidential term.
-(g) Independence of Judiciary/Commissions (Chapter 15).
-(h) Parliament’s functions.
-(i) Devolved government structure/principles.
-(j) This amendment chapter.
-
-(2) Referendum approval threshold:
-
-    Turnout: ≥20% of voters in ≥½ of counties.
-
-    Support: Simple majority of votes cast.
-
-(3) Other amendments: Enacted via:
-
-    Parliament alone (Article 256), or
-
-    Popular initiative + Parliament (Article 257).
-
-256. Amendment by Parliamentary Initiative
-Summary: Process for Parliament-led amendments.
-
-Full Text:
-(1) Bill requirements:
-(a) Introduced in either House.
-(b) Limited to constitutional amendments + consequential legislation.
-(c) 90-day gap between first and second readings.
-(d) Passed by ≥2/3 majority in both Houses (second and third readings).
-
-(2) Public participation: Parliament must publicize and facilitate debate.
-
-(3) Post-passage:
-
-    Speakers submit Bill + certification to the President.
-
-(4) Presidential assent: Within 30 days (unless referendum required).
-
-(5) If amendment falls under Article 255(1):
-(a) President directs IEBC to hold a referendum within 90 days.
-(b) Assent within 30 days after IEBC certifies referendum approval.
-
-257. Amendment by Popular Initiative
-Summary: Citizens’ power to propose amendments via petitions.
-
-Full Text:
-(1) Proposal: ≥1 million registered voters’ signatures.
-
-(2) Form: General suggestion or draft Bill.
-
-(3) If general suggestion, promoters must draft it into a Bill.
-
-(4) IEBC verification: Confirms signature threshold.
-
-(5) County assemblies: IEBC submits draft Bill to all counties for 3-month review.
-
-(6) Approval: County speakers submit certified copies to Parliament if majority approve.
-
-(7) Parliamentary introduction: Without delay if ≥½ counties approve.
-
-(8) Passage: Simple majority in both Houses.
-
-(9) Presidential assent: As per Article 256(4)–(5).
-
-(10) Referendum triggered if:
-
-    Either House rejects the Bill, or
-
-    Amendment relates to Article 255(1) matters.
-
-(11) Referendum rules follow Article 255(2).
+Amendment of this Constitution.
+255. (1) A proposed amendment to this Constitution shall be
+enacted in accordance with Article 256 or 257, and approved in
+accordance with clause (2) by a referendum, if the amendment relates
+to any of the following matters—
+(a) the supremacy of this Constitution;
+(b) the territory of Kenya;
+(c) the sovereignty of the people;
+(d) the national values and principles of governance referred to in
+Article 10 (2) (a) to (d);
+(e) the Bill of Rights;
+(f) the term of office of the President;
+(g) the independence of the Judiciary and the commissions and
+independent offices to which Chapter Fifteen applies;
+(h) the functions of Parliament;
+153
+Constitution of Kenya, 2010
+(i) the objects, principles and structure of devolved government;
+or
+(j) the provisions of this Chapter.
+(2) A proposed amendment shall be approved by a referendum
+under clause (1) if—
+(a) at least twenty per cent of the registered voters in each of at
+least half of the counties vote in the referendum; and
+(b) the amendment is supported by a simple majority of the
+citizens voting in the referendum.
+(3) An amendment to this Constitution that does not relate to a
+matter specified in clause (1) shall be enacted either—
+(a) by Parliament, in accordance with Article 256; or
+(b) by the people and Parliament, in accordance with Article 257.
+Amendment by parliamentary initiative.
+256. (1) A Bill to amend this Constitution—
+(a) may be introduced in either House of Parliament;
+(b) may not address any other matter apart from consequential
+amendments to legislation arising from the Bill;
+(c) shall not be called for second reading in either House within
+ninety days after the first reading of the Bill in that House; and
+(d) shall have been passed by Parliament when each House of
+Parliament has passed the Bill, in both its second and third
+readings, by not less than two-thirds of all the members of
+that House.
+(2) Parliament shall publicise any Bill to amend this Constitution,
+and facilitate public discussion about the Bill.
+(3) After Parliament passes a Bill to amend this Constitution, the
+Speakers of the two Houses of Parliament shall jointly submit to the
+President—
+(a) the Bill, for assent and publication; and
+(b) a certificate that the Bill has been passed by Parliament in
+accordance with this Article.
+154
+ Constitution of Kenya, 2010
+(4) Subject to clause (5), the President shall assent to the Bill and
+cause it to be published within thirty days after the Bill is enacted by
+Parliament.
+(5) If a Bill to amend this Constitution proposes an amendment
+relating to a matter specified in Article 255 (1)—
+(a) the President shall, before assenting to the Bill, request the
+Independent Electoral and Boundaries Commission to
+conduct, within ninety days, a national referendum for
+approval of the Bill; and
+(b) within thirty days after the chairperson of the Independent
+Electoral and Boundaries Commission has certified to the
+President that the Bill has been approved in accordance with
+Article 255 (2), the President shall assent to the Bill and
+cause it to be published.
+Amendment by popular initiative.
+257. (1) An amendment to this Constitution may be proposed by
+a popular initiative signed by at least one million registered voters.
+(2) A popular initiative for an amendment to this Constitution may
+be in the form of a general suggestion or a formulated draft Bill.
+(3) If a popular initiative is in the form of a general suggestion, the
+promoters of that popular initiative shall formulate it into a draft Bill.
+(4) The promoters of a popular initiative shall deliver the draft Bill
+and the supporting signatures to the Independent Electoral and
+Boundaries Commission, which shall verify that the initiative is
+supported by at least one million registered voters.
+(5) If the Independent Electoral and Boundaries Commission is
+satisfied that the initiative meets the requirements of this Article, the
+Commission shall submit the draft Bill to each county assembly for
+consideration within three months after the date it was submitted by
+the Commission.
+(6) If a county assembly approves the draft Bill within three
+months after the date it was submitted by the Commission, the
+speaker of the county assembly shall deliver a copy of the draft Bill
+jointly to the Speakers of the two Houses of Parliament, with a
+certificate that the county assembly has approved it.
+(7) If a draft Bill has been approved by a majority of the county
+assemblies, it shall be introduced in Parliament without delay.
+155
+Constitution of Kenya, 2010
+(8) A Bill under this Article is passed by Parliament if supported
+by a majority of the members of each House.
+(9) If Parliament passes the Bill, it shall be submitted to the
+President for assent in accordance with Articles 256 (4) and (5).
+(10) If either House of Parliament fails to pass the Bill, or the Bill
+relates to a matter specified in 255 (1), the proposed amendment shall
+be submitted to the people in a referendum.
+(11) Article 255 (2) applies, with any necessary modifications, to
+a referendum under clause (10). 
