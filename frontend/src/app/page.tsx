@@ -3,17 +3,34 @@
 import { useState, useRef, useEffect } from 'react';
 import Sidebar from '@/components/Sidebar';
 import ChatInterface from '@/components/ChatInterface';
+import Dashboard from '@/components/Dashboard';
+import Quiz from '@/components/Quiz';
 import { chapter4 } from '@/data/chapter4';
 import { chapter14 } from '@/data/chapter14';
 import { Menu, Search as SearchIcon, BookOpen, Loader2, Quote } from 'lucide-react';
 
 export default function Home() {
-  const [activeTab, setActiveTab] = useState<string>('assistant');
+  const [activeTab, setActiveTab] = useState<string>('dashboard');
   const [isSidebarOpen, setIsSidebarOpen] = useState<boolean>(false);
   const [language, setLanguage] = useState<string>('en');
 
   const renderContent = () => {
     switch (activeTab) {
+      case 'dashboard':
+        return (
+          <Dashboard 
+            language={language}
+            setIsSidebarOpen={setIsSidebarOpen}
+            setActiveTab={setActiveTab}
+          />
+        );
+      case 'quiz':
+        return (
+          <Quiz 
+            language={language}
+            setIsSidebarOpen={setIsSidebarOpen}
+          />
+        );
       case 'assistant':
         return (
           <ChatInterface 
