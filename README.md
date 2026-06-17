@@ -1,14 +1,14 @@
-# Civic Educator Bot 🇰🇪
+# Civic Educator Bot
 
 A professional Retrieval-Augmented Generation (RAG) platform designed to provide expert civic education on the Constitution of Kenya.
 
-## 🏗️ Architecture
+## Architecture
 - **Backend**: FastAPI with a modular, scalable structure.
 - **RAG Engine**: FAISS (Vector DB) + SentenceTransformers (Embeddings).
 - **LLM**: Local-first intelligence via Ollama (`civic-bot:latest`).
 - **Frontend**: Next.js 15+ with a clean, institutional design.
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── backend/            # Python backend source code
 │   ├── api/            # API routes and controllers
@@ -19,11 +19,10 @@ A professional Retrieval-Augmented Generation (RAG) platform designed to provide
 │   └── processed/      # FAISS indices and document clusters
 ├── docs/               # Project documentation
 ├── frontend/           # Next.js 15+ Web Dashboard
-├── notebooks/          # Experimental RAG research
 └── index_constitution.py # Data ingestion pipeline
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - Python 3.10+
@@ -44,5 +43,5 @@ npm install
 npm run dev -- -p 3008        # Start portal on port 3008
 ```
 
-## ⚖️ Legal Disclaimer
+## Legal Disclaimer
 This bot is for educational purposes only and does not constitute legal advice.
