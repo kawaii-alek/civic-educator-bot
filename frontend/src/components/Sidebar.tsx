@@ -1,4 +1,4 @@
-import { Scale, MessageSquare, BookOpen, Landmark, Search, ShieldCheck, X } from 'lucide-react';
+import { Scale, MessageSquare, BookOpen, Landmark, Search, ShieldCheck, X, LayoutDashboard, GraduationCap } from 'lucide-react';
 
 interface SidebarProps {
   activeTab: string;
@@ -23,9 +23,12 @@ const Sidebar = ({ activeTab, setActiveTab, isSidebarOpen, setIsSidebarOpen }: S
         />
       )}
       
-      <aside className={`w-72 bg-slate-900 text-slate-300 p-8 flex flex-col justify-between fixed inset-y-0 left-0 z-50 transition-transform duration-300 transform lg:translate-x-0 lg:static ${
-        isSidebarOpen ? 'translate-x-0' : '-translate-x-full'
-      } lg:flex h-full`}>
+      <aside className={`w-72 bg-slate-900 text-slate-300 p-8 flex flex-col justify-between transition-transform duration-300 z-50 lg:flex h-full
+        ${isSidebarOpen 
+          ? 'fixed inset-y-0 left-0 translate-x-0' 
+          : 'fixed inset-y-0 left-0 -translate-x-full lg:static lg:translate-x-0'
+        }
+      `}>
         <div>
           <div className="flex items-center justify-between text-white mb-12">
             <div className="flex items-center gap-3">
@@ -44,13 +47,26 @@ const Sidebar = ({ activeTab, setActiveTab, isSidebarOpen, setIsSidebarOpen }: S
           </div>
           
           <nav className="space-y-1">
-            <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-4 ml-4">Constitution</p>
+            <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mb-4 ml-4">Civic Portal</p>
+            <NavItem 
+              icon={<LayoutDashboard size={18} />} 
+              label="Civic Dashboard" 
+              active={activeTab === 'dashboard'} 
+              onClick={() => handleNavClick('dashboard')}
+            />
             <NavItem 
               icon={<MessageSquare size={18} />} 
               label="Expert Assistant" 
               active={activeTab === 'assistant'} 
               onClick={() => handleNavClick('assistant')}
             />
+            <NavItem 
+              icon={<GraduationCap size={18} />} 
+              label="Interactive Quiz" 
+              active={activeTab === 'quiz'} 
+              onClick={() => handleNavClick('quiz')}
+            />
+            <p className="text-[10px] uppercase tracking-widest text-slate-500 font-bold mt-6 mb-4 ml-4">Constitution</p>
             <NavItem 
               icon={<BookOpen size={18} />} 
               label="The Bill of Rights" 
