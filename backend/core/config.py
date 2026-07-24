@@ -15,6 +15,8 @@ class Settings(BaseSettings):
     # Model settings
     CUSTOM_MODEL: str = "civic-bot:latest"
     EMBEDDING_MODEL_NAME: str = "all-MiniLM-L6-v2"
+    GEMINI_API_KEY: str = ""
+    GEMINI_MODEL: str = "gemini-1.5-flash"
     
     # Gemini API settings
     GEMINI_API_KEY: str = ""

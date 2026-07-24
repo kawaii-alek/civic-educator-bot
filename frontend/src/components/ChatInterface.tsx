@@ -62,7 +62,7 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
   const [messages, setMessages] = useState<Message[]>([
     {
       role: 'bot',
-      content: TRANSLATIONS.en.welcome, // Start with English or set dynamically on mount
+      content: TRANSLATIONS.en.welcome,
       timestamp: 'Just now'
     }
   ]);
@@ -79,7 +79,6 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
     scrollToBottom();
   }, [messages]);
 
-  // Clean up abort controller on unmount
   useEffect(() => {
     return () => {
       if (abortControllerRef.current) {
@@ -88,7 +87,6 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
     };
   }, []);
 
-  // Update welcome message if language changes and no interaction has occurred
   useEffect(() => {
     setMessages(prev => {
       if (prev.length === 1 && prev[0].role === 'bot') {
@@ -112,7 +110,7 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
 
     const payloadMessages = [
       ...messages.map(msg => ({
-        role: msg.role,
+        role: msg.role === 'bot' ? 'assistant' : 'user',
         content: msg.content
       })),
       { role: 'user', content: input }
@@ -122,7 +120,6 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
     setInput('');
     setIsLoading(true);
 
-    // Abort active fetch request if any
     if (abortControllerRef.current) {
       abortControllerRef.current.abort();
     }
@@ -130,10 +127,13 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
     abortControllerRef.current = abortController;
 
     try {
-      const apiUrl = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:8001/v1';
+      const apiBaseUrl = process.env.NEXT_PUBLIC_API_BASE_URL;
+      const endpoint = (apiBaseUrl && apiBaseUrl.startsWith('http') && !apiBaseUrl.includes('localhost'))
+        ? (apiBaseUrl.endsWith('/') ? `${apiBaseUrl}v1/chat/completions` : `${apiBaseUrl}/v1/chat/completions`)
+        : '/api/chat';
       const apiKey = process.env.NEXT_PUBLIC_API_KEY || 'my_secret_key123';
 
-      const response = await fetch(`${apiUrl}/chat/completions`, {
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -141,12 +141,16 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
           'x-language': language
         },
         body: JSON.stringify({
-          messages: payloadMessages
+          messages: payloadMessages,
+          language: language
         }),
         signal: abortController.signal
       });
 
-      if (!response.ok) throw new Error('Failed to fetch');
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(errorData.error || errorData.detail || `Server responded with status ${response.status}`);
+      }
 
       const data = await response.json();
       
@@ -160,12 +164,13 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
     } catch (error: any) {
       if (error.name === 'AbortError') {
         console.log('Fetch aborted');
-        return; // do not append error or toggle loading if it was aborted
+        return;
       }
       console.error(error);
+      const errorDetail = error?.message ? ` (${error.message})` : '';
       const errorMsg: Message = {
         role: 'bot',
-        content: t.error,
+        content: `Error: Connection to the legal database failed${errorDetail}. Please check your GEMINI_API_KEY in Vercel settings and redeploy.`,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
       setMessages(prev => [...prev, errorMsg]);
@@ -181,7 +186,6 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
       {/* Institutional Top Bar */}
       <header className="px-4 md:px-10 py-4 md:py-6 bg-white border-b border-slate-200 flex justify-between items-center shadow-sm">
         <div className="flex items-center gap-3 md:gap-4">
-          {/* Hamburger Menu on Mobile */}
           <button 
             onClick={() => setIsSidebarOpen(true)}
             className="lg:hidden p-2 text-slate-600 hover:text-slate-900 hover:bg-slate-100 rounded-lg active:scale-95 transition-all"
@@ -195,7 +199,6 @@ const ChatInterface = ({ setIsSidebarOpen, language, setLanguage }: ChatInterfac
         </div>
         
         <div className="flex items-center gap-3">
-          {/* Language Selector Dropdown */}
           <div className="relative flex items-center hover:scale-[1.02] active:scale-[0.98] transition-transform">
             <select
               value={language}

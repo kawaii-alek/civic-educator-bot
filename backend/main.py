@@ -21,14 +21,10 @@ def create_app() -> FastAPI:
         version="1.0.0"
     )
 
-    # Configure CORS with restricted origins
-    origins = [origin.strip() for origin in settings.CORS_ORIGINS.split(",") if origin.strip()]
-    if not origins:
-        origins = ["*"]
-
+    # Configure CORS
     app.add_middleware(
         CORSMiddleware,
-        allow_origins=origins,
+        allow_origins=["*"],
         allow_credentials=True,
         allow_methods=["*"],
         allow_headers=["*"],
@@ -47,7 +43,6 @@ def create_app() -> FastAPI:
         }
 
     # Static assets and frontend entry point
-    # Note: Using absolute path from settings for robustness
     static_dir = os.path.join(settings.BASE_DIR, "static")
     if os.path.exists(static_dir):
         app.mount("/static", StaticFiles(directory=static_dir), name="static")
@@ -66,5 +61,5 @@ app = create_app()
 if __name__ == "__main__":
     import uvicorn
     import os
-    uvicorn.run("backend.main:app", host="0.0.0.0", port=8001, reload=True)
-
+    port = int(os.environ.get("PORT", 8001))
+    uvicorn.run("backend.main:app", host="0.0.0.0", port=port)
